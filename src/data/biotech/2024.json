@@ -1,0 +1,28 @@
+{
+  "year": 2024,
+  "global_market": {
+    "value": "$1.55 trillion",
+    "growth_forecast": "$4.61 trillion by 2034",
+    "region_leaders": ["North America", "Asia-Pacific"]
+  },
+  "key_trends": [
+    "CRISPR gene therapy (e.g., Casgevy) commercial launch",
+    "Monoclonal antibodies & mRNA for cancer/infections",
+    "Generative AI in diagnostics & bioinformatics",
+    "3D bioprinting and regenerative therapy",
+    "Climate-resilient crops and sustainable food tech",
+    "Biotech IPOs up 68.4% to $8.52B",
+    "Automation in biomanufacturing with AI tools"
+  ],
+  "project_ideas": {
+    "beginner": ["DNA biodiversity barcoding", "BLAST sequence alignment"],
+    "intermediate": ["AI drug discovery", "3D organoid printing"],
+    "advanced": ["Climate-resilient crops", "Clinical trial big data analytics"]
+  },
+  "insights": {
+    "track": "CRISPR and gene therapy launches",
+    "explore": "AI + big data in biopharma",
+    "monitor": "IPOs, VC funding",
+    "leverage": "Cloud biotech platforms"
+  }
+}
