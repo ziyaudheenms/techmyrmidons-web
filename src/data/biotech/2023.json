@@ -1,0 +1,30 @@
+{
+  "year": 2023,
+  "global_market": {
+    "value": "$1.54–$1.55 trillion",
+    "segments": ["Health", "Food & Agriculture", "Environment", "Industrial", "Bioinformatics"],
+    "region_leaders": ["North America", "Asia-Pacific"]
+  },
+  "key_trends": [
+    "FDA & EMA approvals for CRISPR gene therapies",
+    "mRNA expansion to cancer & infectious diseases",
+    "Synthetic biology in lab-grown meat & materials",
+    "AI in drug discovery & genomics",
+    "3D bioprinting for tissue & organ repair",
+    "Drought-resistant crops & sustainable agri-biotech",
+    "Nanobiotech drug delivery systems",
+    "Enzyme-based bio-manufacturing",
+    "Public-private biotech innovation partnerships"
+  ],
+  "project_ideas": {
+    "beginner": ["CRISPR simulation", "DNA barcoding", "Bioinformatics app"],
+    "intermediate": ["AI-genomic analysis", "3D bioprinting of tissue"],
+    "advanced": ["Synthetic microbes", "Nanobiotech for drug delivery"]
+  },
+  "insights": {
+    "track": "CRISPR approvals, clinical trials",
+    "explore": "AI for genomics and drug discovery",
+    "investigate": "Synthetic biology for sustainable solutions",
+    "leverage": "Cloud AI & bioinformatics tools"
+  }
+}
