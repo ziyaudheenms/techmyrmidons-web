@@ -12,7 +12,7 @@
     },
     {
       "title": "Jetpack Compose enhancements",
-      "description": "Compose Animation Preview was updated in Giraffe to support animate\*AsState, CrossFade, rememberInfiniteTransition and AnimatedContent (with Compose 1.4.0‑alpha04+). Compose continues to be the recommended UI toolkit.",
+      "description": "Compose Animation Preview was updated in Giraffe to support animate AsState, CrossFade, rememberInfiniteTransition and AnimatedContent (with Compose 1.4.0‑alpha04+). Compose continues to be the recommended UI toolkit.",
       "url": "https://developer.android.com/studio/releases/past-releases/as-giraffe-release-notes"
     },
     {
