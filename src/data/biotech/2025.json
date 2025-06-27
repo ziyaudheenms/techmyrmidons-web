@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "global_market": {
+    "value": "$1.03–$1.68 trillion",
+    "forecast_2034": "$5.85 trillion",
+    "growth_rate": "8.4–13.6% CAGR",
+    "startups": 5800,
+    "patents": 268000,
+    "investment_avg": "$47.7M",
+    "hotspots": ["USA", "India", "China", "Germany", "UK"]
+  },
+  "key_trends": [
+    "CRISPR + lipid delivery advances",
+    "AI-led clinical pipelines (e.g., Exscientia)",
+    "Synthetic biology scaling biofuels/pharma",
+    "3D bioprinting for implants/organoids",
+    "Real-world evidence (RWE) trials",
+    "Automation & robotics in biomanufacturing",
+    "Precision medicine for oncology & rare disease",
+    "New biotech startup boom (epigenetics, proteomics)",
+    "Global regulatory overhaul (e.g., EU assessments)"
+  ],
+  "project_ideas": {
+    "beginner": ["CRISPR simulator", "Bioinformatics alignment app"],
+    "intermediate": ["AI in genomics", "Bioprinted regenerative models"],
+    "advanced": ["Synthetic biology in pharma", "AI-automated lab workflows"]
+  },
+  "insights": {
+    "track": "AI in drug pipelines, RWE data",
+    "explore": "Synthetic biology & 3D biomaterials",
+    "monitor": "VC trends, global biotech hubs",
+    "leverage": "Open-source biotech and incubators"
+  }
+}
