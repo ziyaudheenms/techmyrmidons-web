@@ -54,6 +54,11 @@
       "technology": "Product Management",
       "logo": "pm.png",
       "folderName": "pm"
+    },
+    {
+      "technology": "IoT",
+      "logo": "iot.png",
+      "folderName": "iot"
     }
   ]
 }
