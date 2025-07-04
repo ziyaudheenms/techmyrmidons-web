@@ -140,7 +140,8 @@ const Landing = () => {
               image="/assets/landing/foss.png"
               name="Foss"
               link="#"
-              description="FOSS (Free and Open Source Software) is software that is freely available for anyone to use, modify, and share. It encourages collaboration, transparency, and community-driven development, allowing individuals and organizations to build better technology together without restrictive licenses. "
+              description="FOSS (Free and Open Source Software) is software that anyone can use, modify, and share freely. It promotes collaboration, transparency, and community-driven development.
+ "
             />
           </div>
         </div>
