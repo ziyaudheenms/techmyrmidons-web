@@ -139,7 +139,7 @@ const Landing = () => {
           <Card
               image="/assets/landing/foss.png"
               name="Foss"
-              link="#"
+              link="/foss"
               description="FOSS (Free and Open Source Software) is software that anyone can use, modify, and share freely. It promotes collaboration, transparency, and community-driven development.
  "
             />
