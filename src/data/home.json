@@ -59,6 +59,11 @@
       "technology": "IoT",
       "logo": "iot.png",
       "folderName": "iot"
+    },
+    {
+      "technology": "foss",
+      "logo": "foss.png",
+      "folderName": "foss"
     }
   ]
 }
