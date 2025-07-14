@@ -1,6 +1,36 @@
 {
     "2025": [
-        {
+         {
+            "title": "Zoom app arrives on Meta Quest",
+            "description": "On July 9, Meta launched an official Zoom app for the Meta Quest platform, enabling users to attend and host virtual meetings in VR using avatars and Horizon Workrooms integration.",
+            "url": "https://www.roadtovr.com/zoom-app-on-quest-2025/",
+            "morelink": "Road to VR"
+         },
+         {
+            "title": "AR in VR: 15 Years of AWE with Ori Inbar",
+            "description": "At AWE USA 2025, Ori Inbar reflected on 15 years of the Augmented World Expo, highlighting the evolution of immersive tech and the convergence of AR and VR under one XR ecosystem.",
+            "url": "https://www.uploadvr.com/ar-in-vr-15-years-of-awe-2025/",
+            "morelink": "UploadVR"
+         },
+         {
+            "title": "Meta rebrands VR/MR content under 'Mixed Reality'",
+            "description": "In early 2025, Meta began marketing all Horizon and Quest content under the unified term 'Mixed Reality' to reflect the blending of physical and digital worlds in its platform vision.",
+            "url": "https://www.uploadvr.com/meta-mixed-reality-umbrella-term/",
+            "morelink": "UploadVR"
+         },
+         {
+            "title": "Meta Reality Labs sales grew 40% in 2024",
+            "description": "A leaked internal memo from Meta reveals that Reality Labs saw a 40% increase in revenue during 2024, driven largely by Quest 3S and holiday season performance.",
+            "url": "https://www.uploadvr.com/meta-reality-labs-sales-grew-40-in-2024-leaked-memo/",
+            "morelink": "UploadVR"
+         },
+         {
+            "title": "Meta posts record $1.083B in Q4 2024 XR revenue",
+            "description": "Meta's Reality Labs achieved its highest-ever quarterly revenue in Q4 2024, with $1.083 billion in earnings attributed to strong Quest 3S sales and expanding enterprise usage.",
+            "url": "https://www.uploadvr.com/quest-3s-meta-reality-labs-record-quarterly-yearly-revenue-2024/",
+            "morelink": "UploadVR"
+         },
+         {
             "title": "Meta Quest 3S Xbox Edition release",
             "description": "Meta and Xbox launched the limited‑edition Meta Quest 3S Xbox Edition on June 24 for $399, bundled with Xbox Series controller and Game Pass, optimized for Xbox Cloud Gaming on VR.",
             "url": "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing",
