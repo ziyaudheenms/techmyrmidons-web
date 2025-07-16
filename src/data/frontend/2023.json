@@ -1,1 +1,64 @@
-
+{
+    "2023": [
+        {
+            "title": "React",
+            "description": "A JavaScript library for building interactive UIs with a component-based architecture and virtual DOM.",
+            "url": "https://reactjs.org/"
+        },
+        {
+            "title": "Vue.js",
+            "description": "A progressive JavaScript framework for building user interfaces, designed to be incrementally adoptable.",
+            "url": "https://vuejs.org/"
+        },
+        {
+            "title": "Angular",
+            "description": "A full-featured TypeScript-based framework by Google for building large-scale single-page applications.",
+            "url": "https://angular.io/"
+        },
+        {
+            "title": "Svelte",
+            "description": "A compiler that converts components into highly optimized JavaScript at build time, avoiding runtime overhead.",
+            "url": "https://svelte.dev/"
+        },
+        {
+            "title": "Next.js",
+            "description": "A React framework from Vercel for server-side rendering, static site generation, and fullstack capabilities.",
+            "url": "https://nextjs.org/"
+        },
+        {
+            "title": "Vite",
+            "description": "A next-generation frontend build tool that provides lightning-fast dev server and optimized production builds.",
+            "url": "https://vitejs.dev/"
+        },
+        {
+            "title": "esbuild",
+            "description": "An ultra-fast JavaScript and CSS bundler/minifier written in Go, used by tools like Vite.",
+            "url": "https://esbuild.github.io/"
+        },
+        {
+            "title": "Tailwind CSS",
+            "description": "A utility-first CSS framework for rapidly building custom designs without leaving your HTML.",
+            "url": "https://tailwindcss.com/"
+        },
+        {
+            "title": "TypeScript",
+            "description": "A typed superset of JavaScript that compiles to plain JavaScript, improving tooling and reliability.",
+            "url": "https://www.typescriptlang.org/"
+        },
+        {
+            "title": "Visual Studio Code",
+            "description": "A lightweight, extensible code editor with built-in terminal, debugger, and massive extension ecosystem.",
+            "url": "https://code.visualstudio.com/"
+        },
+        {
+            "title": "Git & GitHub",
+            "description": "Version control using Git and collaboration via GitHub remain essential in modern development workflows.",
+            "url": "https://github.com/"
+        },
+        {
+            "title": "HTMX",
+            "description": "A lightweight library to add AJAX, CSS transitions, and more directly in HTML using custom attributes.",
+            "url": "https://htmx.org/"
+        }
+    ]
+}
