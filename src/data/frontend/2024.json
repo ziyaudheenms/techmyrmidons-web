@@ -1,1 +1,82 @@
-
+{
+  "2024": [
+    {
+      "title": "React 19",
+      "description": "The latest version of React introduces server components, actions, and enhanced compiler optimizations for building highly interactive user interfaces with improved performance.",
+      "url": "https://react.dev/",
+      "morelink": "react19"
+    },
+    {
+      "title": "Vue 4",
+      "description": "Vue.js continues to evolve with better TypeScript integration, improved reactivity system, and enhanced composition API for building modern web applications.",
+      "url": "https://vuejs.org/",
+      "morelink": "vue4"
+    },
+    {
+      "title": "Angular 17",
+      "description": "The latest Angular version features signals-based reactivity, standalone components by default, and improved server-side rendering capabilities.",
+      "url": "https://angular.io/",
+      "morelink": "angular17"
+    },
+    {
+      "title": "Next.js 15",
+      "description": "The React framework now features partial prerendering, enhanced Turbopack optimizations, and improved React Server Components support.",
+      "url": "https://nextjs.org/",
+      "morelink": "nextjs15"
+    },
+    {
+      "title": "TypeScript 5.4",
+      "description": "Latest TypeScript version with improved type inference, new utility types, and enhanced editor tooling for scalable application development.",
+      "url": "https://www.typescriptlang.org/",
+      "morelink": "typescript54"
+    },
+    {
+      "title": "Tailwind CSS v4",
+      "description": "The utility-first CSS framework now features zero-runtime CSS-in-JS, improved theming system, and better performance optimizations.",
+      "url": "https://tailwindcss.com/",
+      "morelink": "tailwindv4"
+    },
+    {
+      "title": "Bun 2.0",
+      "description": "The all-in-one JavaScript runtime now offers enhanced Node.js compatibility, improved performance, and built-in testing and packaging tools.",
+      "url": "https://bun.sh/",
+      "morelink": "bun2"
+    },
+    {
+      "title": "Svelte 5",
+      "description": "Svelte 5 introduces runes, a new reactivity system, and compiler optimizations that significantly improve performance and developer experience.",
+      "url": "https://svelte.dev/",
+      "morelink": "svelte5"
+    },
+    {
+      "title": "Remix 2.0",
+      "description": "The full-stack framework now features improved data loading patterns, enhanced deployment options, and better Vite integration.",
+      "url": "https://remix.run/",
+      "morelink": "remix2"
+    },
+    {
+      "title": "WebAssembly 2.0",
+      "description": "The next-generation binary format enables near-native performance in browsers with thread support, exception handling, and improved GC integration.",
+      "url": "https://webassembly.org/",
+      "morelink": "wasm2"
+    },
+    {
+      "title": "Astro 4.0",
+      "description": "The island architecture framework now supports View Transitions API, improved hydration strategies, and enhanced MDX integration.",
+      "url": "https://astro.build/",
+      "morelink": "astro4"
+    },
+    {
+      "title": "Vite 5",
+      "description": "The next-gen frontend tooling features improved cold start performance, better SSR support, and enhanced plugin ecosystem.",
+      "url": "https://vitejs.dev/",
+      "morelink": "vite5"
+    },
+    {
+      "title": "Qwik 2.0",
+      "description": "The resumable framework now offers improved developer experience, better React compatibility layer, and enhanced optimization capabilities.",
+      "url": "https://qwik.builder.io/",
+      "morelink": "qwik2"
+    }
+  ]
+}
