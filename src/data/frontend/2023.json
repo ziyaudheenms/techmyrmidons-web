@@ -119,6 +119,42 @@
       "description": "Data visualization library for dynamic, interactive charts using web standards. Features declarative data binding, transition animations, and extensive layout algorithms. Integrates with modern frameworks for complex dashboards.",
       "url": "https://d3js.org/",
       "morelink": "d3"
+    },
+    {
+      "title": "Nuxt.js 3",
+      "description": "Full-stack Vue framework with hybrid rendering, auto-imports, and Nitro server engine. Features file-based routing, server APIs, and powerful data fetching. The standard for production Vue applications.",
+      "url": "https://nuxt.com/",
+      "morelink": "nuxt"
+    },
+    {
+      "title": "SolidJS",
+      "description": "Declarative JavaScript library with fine-grained reactivity using compiler optimizations. Delivers React-like syntax with faster performance and smaller bundles through compiled reactivity primitives.",
+      "url": "https://www.solidjs.com/",
+      "morelink": "solidjs"
+    },
+    {
+      "title": "Bun",
+      "description": "All-in-one JavaScript runtime, package manager, bundler and test runner. Built in Zig for exceptional speed, offering Node.js-compatible APIs with native performance advantages.",
+      "url": "https://bun.sh/",
+      "morelink": "bun"
+    },
+    {
+      "title": "tRPC",
+      "description": "End-to-end type-safe API layer for full-stack TypeScript applications. Enables automatic client-server type synchronization without code generation or schemas.",
+      "url": "https://trpc.io/",
+      "morelink": "trpc"
+    },
+    {
+      "title": "React Native",
+      "description": "Framework for building native mobile apps using React. Shares business logic across platforms while delivering native UI performance through platform-specific rendering.",
+      "url": "https://reactnative.dev/",
+      "morelink": "react-native"
+    },
+    {
+      "title": "Framer Motion",
+      "description": "Production-ready animation library for React. Features gesture support, layout animations, and simplified API for complex UI transitions.",
+      "url": "https://www.framer.com/motion/",
+      "morelink": "framer-motion"
     }
   ]
 }
