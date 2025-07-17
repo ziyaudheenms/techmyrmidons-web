@@ -1,64 +1,76 @@
 {
-    "2023": [
-        {
-            "title": "React",
-            "description": "A JavaScript library for building interactive UIs with a component-based architecture and virtual DOM.",
-            "url": "https://reactjs.org/"
-        },
-        {
-            "title": "Vue.js",
-            "description": "A progressive JavaScript framework for building user interfaces, designed to be incrementally adoptable.",
-            "url": "https://vuejs.org/"
-        },
-        {
-            "title": "Angular",
-            "description": "A full-featured TypeScript-based framework by Google for building large-scale single-page applications.",
-            "url": "https://angular.io/"
-        },
-        {
-            "title": "Svelte",
-            "description": "A compiler that converts components into highly optimized JavaScript at build time, avoiding runtime overhead.",
-            "url": "https://svelte.dev/"
-        },
-        {
-            "title": "Next.js",
-            "description": "A React framework from Vercel for server-side rendering, static site generation, and fullstack capabilities.",
-            "url": "https://nextjs.org/"
-        },
-        {
-            "title": "Vite",
-            "description": "A next-generation frontend build tool that provides lightning-fast dev server and optimized production builds.",
-            "url": "https://vitejs.dev/"
-        },
-        {
-            "title": "esbuild",
-            "description": "An ultra-fast JavaScript and CSS bundler/minifier written in Go, used by tools like Vite.",
-            "url": "https://esbuild.github.io/"
-        },
-        {
-            "title": "Tailwind CSS",
-            "description": "A utility-first CSS framework for rapidly building custom designs without leaving your HTML.",
-            "url": "https://tailwindcss.com/"
-        },
-        {
-            "title": "TypeScript",
-            "description": "A typed superset of JavaScript that compiles to plain JavaScript, improving tooling and reliability.",
-            "url": "https://www.typescriptlang.org/"
-        },
-        {
-            "title": "Visual Studio Code",
-            "description": "A lightweight, extensible code editor with built-in terminal, debugger, and massive extension ecosystem.",
-            "url": "https://code.visualstudio.com/"
-        },
-        {
-            "title": "Git & GitHub",
-            "description": "Version control using Git and collaboration via GitHub remain essential in modern development workflows.",
-            "url": "https://github.com/"
-        },
-        {
-            "title": "HTMX",
-            "description": "A lightweight library to add AJAX, CSS transitions, and more directly in HTML using custom attributes.",
-            "url": "https://htmx.org/"
-        }
-    ]
+  "2023": [
+    {
+      "title": "React",
+      "description": "A JavaScript library for building user interfaces. React makes it painless to create interactive UIs with its component-based architecture and efficient state management.",
+      "url": "https://react.dev/",
+      "morelink": "react"
+    },
+    {
+      "title": "Vue 3",
+      "description": "The Progressive JavaScript Framework. Vue is approachable, performant and versatile - perfect for building modern SPAs and complex web interfaces with its Composition API.",
+      "url": "https://vuejs.org/",
+      "morelink": "vuejs"
+    },
+    {
+      "title": "Next.js",
+      "description": "The React framework for production. Next.js enables features like hybrid static & server rendering, TypeScript support, smart bundling, and route pre-fetching out of the box.",
+      "url": "https://nextjs.org/",
+      "morelink": "nextjs"
+    },
+    {
+      "title": "TypeScript",
+      "description": "Strongly typed JavaScript. TypeScript extends JavaScript by adding static type definitions, improving code quality and developer experience at scale.",
+      "url": "https://www.typescriptlang.org/",
+      "morelink": "typescript"
+    },
+    {
+      "title": "Tailwind CSS",
+      "description": "A utility-first CSS framework for rapidly building custom designs. Tailwind provides low-level utility classes to build designs without writing custom CSS.",
+      "url": "https://tailwindcss.com/",
+      "morelink": "tailwindcss"
+    },
+    {
+      "title": "Vite",
+      "description": "Next generation frontend tooling. Vite provides extremely fast development server start and hot module replacement using native ES modules.",
+      "url": "https://vitejs.dev/",
+      "morelink": "vite"
+    },
+    {
+      "title": "Svelte",
+      "description": "Cybernetically enhanced web apps. Svelte compiles components to highly efficient imperative code at build time, resulting in smaller bundles and better performance.",
+      "url": "https://svelte.dev/",
+      "morelink": "svelte"
+    },
+    {
+      "title": "Remix",
+      "description": "A full stack web framework focused on web standards and modern UX. Remix handles server rendering, caching, and data loading while providing excellent developer ergonomics.",
+      "url": "https://remix.run/",
+      "morelink": "remix"
+    },
+    {
+      "title": "GraphQL",
+      "description": "A query language for APIs. GraphQL enables declarative data fetching where clients can specify exactly what data they need from a single endpoint.",
+      "url": "https://graphql.org/",
+      "morelink": "graphql"
+    },
+    {
+      "title": "WebAssembly",
+      "description": "A binary instruction format enabling high-performance applications on web pages. WASM allows code written in languages like C++ and Rust to run in the browser at near-native speed.",
+      "url": "https://webassembly.org/",
+      "morelink": "webassembly"
+    },
+    {
+      "title": "Jest",
+      "description": "Delightful JavaScript testing framework. Jest provides zero-config setup for unit testing React applications with features like snapshot testing and code coverage.",
+      "url": "https://jestjs.io/",
+      "morelink": "jest"
+    },
+    {
+      "title": "Cypress",
+      "description": "Fast, easy and reliable end-to-end testing for anything that runs in a browser. Cypress enables real-time reloading for TDD workflows with built-in debugging tools.",
+      "url": "https://www.cypress.io/",
+      "morelink": "cypress"
+    }
+  ]
 }
