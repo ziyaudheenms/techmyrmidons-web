@@ -1,76 +1,124 @@
 {
   "2023": [
     {
-      "title": "React",
-      "description": "A JavaScript library for building user interfaces. React makes it painless to create interactive UIs with its component-based architecture and efficient state management.",
+      "title": "React 18",
+      "description": "A declarative JavaScript library for building user interfaces with component-based architecture. React 18 introduces concurrent rendering, automatic batching, and new APIs like useId and useSyncExternalStore. It powers dynamic SPAs with efficient DOM updates through its virtual DOM implementation. Explore React's ecosystem including Next.js and Remix frameworks.",
       "url": "https://react.dev/",
       "morelink": "react"
     },
     {
       "title": "Vue 3",
-      "description": "The Progressive JavaScript Framework. Vue is approachable, performant and versatile - perfect for building modern SPAs and complex web interfaces with its Composition API.",
+      "description": "Progressive JavaScript framework featuring Composition API, reactivity system rewrite, and improved TypeScript support. Vue's single-file components provide a structured approach to building maintainable applications with optimized rendering and smaller bundle sizes. Nuxt.js offers SSR/SSG capabilities for production-ready Vue applications.",
       "url": "https://vuejs.org/",
-      "morelink": "vuejs"
+      "morelink": "vue"
     },
     {
-      "title": "Next.js",
-      "description": "The React framework for production. Next.js enables features like hybrid static & server rendering, TypeScript support, smart bundling, and route pre-fetching out of the box.",
+      "title": "Next.js 13",
+      "description": "Full-stack React framework with app router, server components, and advanced optimizations. Features built-in image optimization, middleware, API routes, and incremental static regeneration. Next.js enables hybrid static & server rendering for superior SEO and performance.",
       "url": "https://nextjs.org/",
       "morelink": "nextjs"
     },
     {
-      "title": "TypeScript",
-      "description": "Strongly typed JavaScript. TypeScript extends JavaScript by adding static type definitions, improving code quality and developer experience at scale.",
+      "title": "SvelteKit",
+      "description": "Compiler-based framework that generates optimized vanilla JavaScript at build time. Offers true reactivity without virtual DOM overhead, scoped styling, and seamless transitions. SvelteKit provides file-based routing, SSR/CSR/SSG modes, and adapter deployment system.",
+      "url": "https://kit.svelte.dev/",
+      "morelink": "svelte"
+    },
+    {
+      "title": "TypeScript 5",
+      "description": "Strongly typed JavaScript superset with modern tooling and advanced type safety. Features decorators, satisfies operator, const type parameters, and enhanced error messaging. Essential for large-scale applications to prevent runtime errors and improve developer experience.",
       "url": "https://www.typescriptlang.org/",
       "morelink": "typescript"
     },
     {
       "title": "Tailwind CSS",
-      "description": "A utility-first CSS framework for rapidly building custom designs. Tailwind provides low-level utility classes to build designs without writing custom CSS.",
+      "description": "Utility-first CSS framework for rapid UI development with customizable design tokens. JIT compiler generates styles on-demand with variant grouping and arbitrary value support. Integrates with PostCSS for modern CSS features and tree-shaking optimization.",
       "url": "https://tailwindcss.com/",
-      "morelink": "tailwindcss"
+      "morelink": "tailwind"
     },
     {
-      "title": "Vite",
-      "description": "Next generation frontend tooling. Vite provides extremely fast development server start and hot module replacement using native ES modules.",
+      "title": "Vite 4",
+      "description": "Next-generation frontend tooling with instant server start via ES modules and lightning-fast HMR. Supports Rollup-powered production builds, multi-framework templates, and optimized dependency pre-bundling. Ecosystem includes Vitest testing framework and VitePress documentation tool.",
       "url": "https://vitejs.dev/",
       "morelink": "vite"
     },
     {
-      "title": "Svelte",
-      "description": "Cybernetically enhanced web apps. Svelte compiles components to highly efficient imperative code at build time, resulting in smaller bundles and better performance.",
-      "url": "https://svelte.dev/",
-      "morelink": "svelte"
-    },
-    {
       "title": "Remix",
-      "description": "A full stack web framework focused on web standards and modern UX. Remix handles server rendering, caching, and data loading while providing excellent developer ergonomics.",
+      "description": "Full-stack web framework focused on web fundamentals with nested routing, resource loading, and progressive enhancement. Features built-in data mutation, error boundaries, and automatic code-splitting. Leverages React Router v6 for seamless client-server data flow.",
       "url": "https://remix.run/",
       "morelink": "remix"
     },
     {
+      "title": "Astro",
+      "description": "Islands architecture framework for content-rich websites with partial hydration. Ships zero JavaScript by default while supporting React/Vue/Svelte components. Features Markdown/MDX support, view transitions API, and hybrid rendering modes.",
+      "url": "https://astro.build/",
+      "morelink": "astro"
+    },
+    {
       "title": "GraphQL",
-      "description": "A query language for APIs. GraphQL enables declarative data fetching where clients can specify exactly what data they need from a single endpoint.",
+      "description": "Query language for APIs enabling declarative data fetching with single endpoints. Eliminates over/under-fetching with strong typing and introspection. Ecosystem includes Apollo Client, Relay, and URQL for frontend integration with caching and normalized stores.",
       "url": "https://graphql.org/",
       "morelink": "graphql"
     },
     {
+      "title": "TanStack Query",
+      "description": "Data synchronization library for managing server state with caching, background updates, and pagination. Features declarative APIs, infinite query support, and optimistic UI mutations. Replaces traditional state management for async data workflows.",
+      "url": "https://tanstack.com/query",
+      "morelink": "react-query"
+    },
+    {
+      "title": "Storybook 7",
+      "description": "UI component workshop for isolated development and testing. Supports documentation, accessibility checks, visual testing, and interaction playgrounds. Integrates with Chromatic for visual regression testing and component catalog hosting.",
+      "url": "https://storybook.js.org/",
+      "morelink": "storybook"
+    },
+    {
+      "title": "Playwright",
+      "description": "End-to-end testing framework for modern web apps with cross-browser support. Features auto-wait, network interception, component testing, and trace viewer. Supports multiple languages including JavaScript, TypeScript, Python, and C#.",
+      "url": "https://playwright.dev/",
+      "morelink": "playwright"
+    },
+    {
+      "title": "Zustand",
+      "description": "Minimal state management solution using simplified flux principles with mutable update patterns. Features zero boilerplate, middleware support, and seamless integration with React Concurrent Mode. Efficiently manages global state without context providers.",
+      "url": "https://zustand-demo.pmnd.rs/",
+      "morelink": "zustand"
+    },
+    {
+      "title": "Three.js",
+      "description": "WebGL-based 3D library for creating interactive experiences with physics, shaders, and VR support. Ecosystem includes React Three Fiber for declarative scene composition and Drei for prebuilt components. Used for product visualizations, games, and data visualization.",
+      "url": "https://threejs.org/",
+      "morelink": "threejs"
+    },
+    {
       "title": "WebAssembly",
-      "description": "A binary instruction format enabling high-performance applications on web pages. WASM allows code written in languages like C++ and Rust to run in the browser at near-native speed.",
+      "description": "Binary instruction format enabling near-native performance in web applications. Supports languages like Rust, C++, and Go for compute-intensive tasks. Used for video editing, CAD applications, scientific simulations, and gaming.",
       "url": "https://webassembly.org/",
       "morelink": "webassembly"
     },
     {
-      "title": "Jest",
-      "description": "Delightful JavaScript testing framework. Jest provides zero-config setup for unit testing React applications with features like snapshot testing and code coverage.",
-      "url": "https://jestjs.io/",
-      "morelink": "jest"
+      "title": "Turborepo",
+      "description": "High-performance build system for JavaScript/TypeScript monorepos with intelligent caching. Features remote caching, task pipelines, and dependency graph optimization. Integrates with major frameworks and package managers.",
+      "url": "https://turbo.build/repo",
+      "morelink": "turborepo"
     },
     {
-      "title": "Cypress",
-      "description": "Fast, easy and reliable end-to-end testing for anything that runs in a browser. Cypress enables real-time reloading for TDD workflows with built-in debugging tools.",
-      "url": "https://www.cypress.io/",
-      "morelink": "cypress"
+      "title": "ESBuild",
+      "description": "Extremely fast JavaScript bundler written in Go with 10-100x speed improvements. Supports TypeScript, JSX, and minification in a single package. Used as foundation for Vite and other modern build tools.",
+      "url": "https://esbuild.github.io/",
+      "morelink": "esbuild"
+    },
+    {
+      "title": "Redux Toolkit",
+      "description": "Official opinionated Redux setup with simplified store configuration and immutable update logic. Includes RTK Query for data fetching/caching and Immer for mutable-style reducers. Modern approach to state management in large applications.",
+      "url": "https://redux-toolkit.js.org/",
+      "morelink": "redux"
+    },
+    {
+      "title": "D3.js",
+      "description": "Data visualization library for dynamic, interactive charts using web standards. Features declarative data binding, transition animations, and extensive layout algorithms. Integrates with modern frameworks for complex dashboards.",
+      "url": "https://d3js.org/",
+      "morelink": "d3"
     }
   ]
 }
