@@ -2,8 +2,8 @@ name: 🤖 Update CONTRIBUTORS.md
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Every Sunday at midnight
-  workflow_dispatch:      # Allow manual trigger
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+  workflow_dispatch:      # Manual trigger from GitHub UI
 
 jobs:
   update-contributors:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # ❗Important: disables GITHUB_TOKEN to avoid 403
 
       - name: 🛠 Generate CONTRIBUTORS.md with avatars
         env:
@@ -37,7 +39,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Ensure we're using the PAT for authentication
+          # 👇 Use your PAT for authentication instead of GITHUB_TOKEN
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
 
           git add CONTRIBUTORS.md
