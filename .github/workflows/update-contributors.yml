@@ -2,18 +2,18 @@ name: 🤖 Update CONTRIBUTORS.md
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Every Sunday
-  workflow_dispatch:    # Allow manual trigger
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+  workflow_dispatch:      # Manual trigger from GitHub UI
 
 jobs:
-  update:
+  update-contributors:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repo
+      - name: 📥 Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🛠 Generate CONTRIBUTORS.md
+      - name: 🛠 Generate CONTRIBUTORS.md with avatars
         run: |
           REPO="${{ github.repository }}"
           echo "## 🤝 Contributors" > CONTRIBUTORS.md
@@ -27,10 +27,13 @@ jobs:
 
           echo "</p>" >> CONTRIBUTORS.md
 
-      - name: ✅ Commit & Push changes
+      - name: ✅ Commit & Push changes using PAT
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add CONTRIBUTORS.md
           git diff --cached --quiet || git commit -m "🤖 Auto-update CONTRIBUTORS.md"
           git push
