@@ -1,0 +1,196 @@
+{
+  "2024": [
+    {
+      "title": "React 18",
+      "description": "The dominant UI library for building component-based interfaces with concurrent rendering, server components, and enhanced suspense features. Enables highly interactive applications with optimized performance.",
+      "url": "https://react.dev/",
+      "morelink": "react"
+    },
+    {
+      "title": "Vue 3",
+      "description": "Progressive framework featuring Composition API, optimized reactivity system, and improved TypeScript support. Ideal for building scalable applications with gradual adoption.",
+      "url": "https://vuejs.org/",
+      "morelink": "vue"
+    },
+    {
+      "title": "Angular 17",
+      "description": "Enterprise-grade framework with signals-based reactivity, standalone components, and enhanced server-side rendering. Offers comprehensive tooling for complex applications.",
+      "url": "https://angular.io/",
+      "morelink": "angular"
+    },
+    {
+      "title": "Next.js 14",
+      "description": "Full-stack React framework with app router, server actions, and static site generation. Simplifies building SEO-friendly hybrid applications with optimized performance.",
+      "url": "https://nextjs.org/",
+      "morelink": "nextjs"
+    },
+    {
+      "title": "SvelteKit 2",
+      "description": "Compiler-based framework generating optimized vanilla JS with zero virtual DOM overhead. Features seamless transitions, stores, and server-side rendering.",
+      "url": "https://kit.svelte.dev/",
+      "morelink": "sveltekit"
+    },
+    {
+      "title": "TypeScript 5.4",
+      "description": "Strongly typed JavaScript superset with improved inference, new utility types, and enhanced editor tooling. Essential for scalable application development.",
+      "url": "https://www.typescriptlang.org/",
+      "morelink": "typescript"
+    },
+    {
+      "title": "Tailwind CSS v4",
+      "description": "Utility-first CSS framework with zero-runtime engine, improved theming, and CSS-native implementation. Enables rapid UI development with design system constraints.",
+      "url": "https://tailwindcss.com/",
+      "morelink": "tailwindcss"
+    },
+    {
+      "title": "Vite 5",
+      "description": "Next-gen build tool with instant server start, optimized production builds, and framework-agnostic architecture. Supports React, Vue, Svelte, and Lit out-of-the-box.",
+      "url": "https://vitejs.dev/",
+      "morelink": "vite"
+    },
+    {
+      "title": "Astro 4",
+      "description": "Islands architecture framework for content-rich sites with partial hydration and view transitions API. Ships minimal JavaScript by default.",
+      "url": "https://astro.build/",
+      "morelink": "astro"
+    },
+    {
+      "title": "Remix 2",
+      "description": "Full-stack framework with nested routing, optimistic UI, and built-in data mutations. Simplifies complex data loading and form handling patterns.",
+      "url": "https://remix.run/",
+      "morelink": "remix"
+    },
+    {
+      "title": "Qwik 2",
+      "description": "Resumable framework delivering instant-load applications through fine-grained lazy loading and serializable state. Optimized for O(1) scalability.",
+      "url": "https://qwik.builder.io/",
+      "morelink": "qwik"
+    },
+    {
+      "title": "Zustand",
+      "description": "Minimal state management solution with atomic updates, middleware support, and zero boilerplate. Provides React context alternatives without re-renders.",
+      "url": "https://zustand-demo.pmnd.rs/",
+      "morelink": "zustand"
+    },
+    {
+      "title": "TanStack Query",
+      "description": "Data synchronization library for server-state management with caching, background updates, and declarative APIs. Simplifies data fetching in React/Vue/Solid.",
+      "url": "https://tanstack.com/query/latest",
+      "morelink": "tanstack-query"
+    },
+    {
+      "title": "Storybook 8",
+      "description": "UI component workshop with automated testing, accessibility checks, and visual regression tools. Facilitates component-driven development workflows.",
+      "url": "https://storybook.js.org/",
+      "morelink": "storybook"
+    },
+    {
+      "title": "Cypress 13",
+      "description": "End-to-end testing framework with real-time reloads, time travel debugging, and component testing. Ensures reliable testing for modern web applications.",
+      "url": "https://www.cypress.io/",
+      "morelink": "cypress"
+    },
+    {
+      "title": "Playwright 1.40",
+      "description": "Cross-browser testing library supporting Chromium, WebKit and Firefox with single API. Features auto-waiting, network interception, and mobile emulation.",
+      "url": "https://playwright.dev/",
+      "morelink": "playwright"
+    },
+    {
+      "title": "Vitest 1",
+      "description": "Blazing-fast test runner built on Vite with ESM-first architecture, Jest-compatible API, and built-in coverage. Optimized for modern web projects.",
+      "url": "https://vitest.dev/",
+      "morelink": "vitest"
+    },
+    {
+      "title": "ESBuild",
+      "description": "Extremely fast JavaScript bundler written in Go with 10-100x speed gains over traditional tools. Enables near-instant builds for development workflows.",
+      "url": "https://esbuild.github.io/",
+      "morelink": "esbuild"
+    },
+    {
+      "title": "Turbopack",
+      "description": "Incremental bundler optimized for monorepos with Rust-based architecture. Powers Next.js 13+ builds with significant performance improvements over traditional bundlers like Webpack.",
+      "url": "https://turbo.build/pack",
+      "morelink": "turbopack"
+    },
+    {
+      "title": "GraphQL",
+      "description": "Query language for APIs enabling declarative data fetching with single endpoints. Reduces over-fetching while providing strong typing and introspection.",
+      "url": "https://graphql.org/",
+      "morelink": "graphql"
+    },
+    {
+      "title": "WebAssembly 2.0",
+      "description": "Binary instruction format enabling near-native performance in browsers. Supports languages like Rust/C++ for compute-intensive tasks.",
+      "url": "https://webassembly.org/",
+      "morelink": "webassembly"
+    },
+    {
+      "title": "Three.js r160",
+      "description": "WebGL-based 3D library with physics engines, VR support, and declarative scene graphs. Powers interactive web-based visualizations.",
+      "url": "https://threejs.org/",
+      "morelink": "threejs"
+    },
+    {
+      "title": "D3.js 7",
+      "description": "Data visualization library combining SVG, Canvas, and HTML5 with declarative data binding. Creates complex interactive charts and custom diagrams.",
+      "url": "https://d3js.org/",
+      "morelink": "d3js"
+    },
+    {
+      "title": "Redux Toolkit 2",
+      "description": "Official opinionated Redux setup with simplified store configuration, immutable updates, and built-in async handling. Reduces Redux boilerplate significantly.",
+      "url": "https://redux-toolkit.js.org/",
+      "morelink": "redux-toolkit"
+    },
+    {
+      "title": "Jotai 2",
+      "description": "Atomic state management with React Suspense support and zero-config approach. Scales from simple to complex state needs with minimal API surface.",
+      "url": "https://jotai.org/",
+      "morelink": "jotai"
+    },
+    {
+      "title": "Zod 3",
+      "description": "TypeScript-first schema validation with static type inference and composable schemas. Ensures runtime safety with developer-friendly syntax.",
+      "url": "https://zod.dev/",
+      "morelink": "zod"
+    },
+    {
+      "title": "Shadcn UI",
+      "description": "Accessible component library built on Radix UI with Tailwind CSS styling. Features customizable unstyled components for design systems.",
+      "url": "https://ui.shadcn.com/",
+      "morelink": "shadcn-ui"
+    },
+    {
+      "title": "Panda CSS",
+      "description": "CSS-in-JS alternative generating static CSS at build time. Features type-safe styles, design tokens, and variant-based utilities.",
+      "url": "https://panda-css.com/",
+      "morelink": "panda-css"
+    },
+    {
+      "title": "Bun 1.1",
+      "description": "All-in-one JavaScript runtime with built-in bundler, test runner, and Node.js-compatible APIs. Offers significantly faster performance than Node.js.",
+      "url": "https://bun.sh/",
+      "morelink": "bun"
+    },
+    {
+      "title": "Deno 1.40",
+      "description": "Secure runtime for JavaScript/TypeScript with built-in tooling and Web-standard APIs. Features permissions system and native ES modules.",
+      "url": "https://deno.com/",
+      "morelink": "deno"
+    },
+    {
+      "title": "Tauri 2",
+      "description": "Desktop app framework creating lightweight binaries with Rust backend and web frontend. Produces significantly smaller bundles than Electron.",
+      "url": "https://tauri.app/",
+      "morelink": "tauri"
+    },
+    {
+      "title": "WASM-Pack",
+      "description": "Workflow tool for Rust-generated WebAssembly with npm compatibility. Simplifies building and publishing WASM libraries.",
+      "url": "https://github.com/rustwasm/wasm-pack",
+      "morelink": "wasm-pack"
+    }
+  ]
+}

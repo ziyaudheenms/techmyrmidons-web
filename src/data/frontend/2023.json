@@ -1,0 +1,160 @@
+{
+  "2023": [
+    {
+      "title": "React 18",
+      "description": "A declarative JavaScript library for building user interfaces with component-based architecture. React 18 introduces concurrent rendering, automatic batching, and new APIs like useId and useSyncExternalStore. It powers dynamic SPAs with efficient DOM updates through its virtual DOM implementation. Explore React's ecosystem including Next.js and Remix frameworks.",
+      "url": "https://react.dev/",
+      "morelink": "react"
+    },
+    {
+      "title": "Vue 3",
+      "description": "Progressive JavaScript framework featuring Composition API, reactivity system rewrite, and improved TypeScript support. Vue's single-file components provide a structured approach to building maintainable applications with optimized rendering and smaller bundle sizes. Nuxt.js offers SSR/SSG capabilities for production-ready Vue applications.",
+      "url": "https://vuejs.org/",
+      "morelink": "vue"
+    },
+    {
+      "title": "Next.js 13",
+      "description": "Full-stack React framework with app router, server components, and advanced optimizations. Features built-in image optimization, middleware, API routes, and incremental static regeneration. Next.js enables hybrid static & server rendering for superior SEO and performance.",
+      "url": "https://nextjs.org/",
+      "morelink": "nextjs"
+    },
+    {
+      "title": "SvelteKit",
+      "description": "Compiler-based framework that generates optimized vanilla JavaScript at build time. Offers true reactivity without virtual DOM overhead, scoped styling, and seamless transitions. SvelteKit provides file-based routing, SSR/CSR/SSG modes, and adapter deployment system.",
+      "url": "https://kit.svelte.dev/",
+      "morelink": "svelte"
+    },
+    {
+      "title": "TypeScript 5",
+      "description": "Strongly typed JavaScript superset with modern tooling and advanced type safety. Features decorators, satisfies operator, const type parameters, and enhanced error messaging. Essential for large-scale applications to prevent runtime errors and improve developer experience.",
+      "url": "https://www.typescriptlang.org/",
+      "morelink": "typescript"
+    },
+    {
+      "title": "Tailwind CSS",
+      "description": "Utility-first CSS framework for rapid UI development with customizable design tokens. JIT compiler generates styles on-demand with variant grouping and arbitrary value support. Integrates with PostCSS for modern CSS features and tree-shaking optimization.",
+      "url": "https://tailwindcss.com/",
+      "morelink": "tailwind"
+    },
+    {
+      "title": "Vite 4",
+      "description": "Next-generation frontend tooling with instant server start via ES modules and lightning-fast HMR. Supports Rollup-powered production builds, multi-framework templates, and optimized dependency pre-bundling. Ecosystem includes Vitest testing framework and VitePress documentation tool.",
+      "url": "https://vitejs.dev/",
+      "morelink": "vite"
+    },
+    {
+      "title": "Remix",
+      "description": "Full-stack web framework focused on web fundamentals with nested routing, resource loading, and progressive enhancement. Features built-in data mutation, error boundaries, and automatic code-splitting. Leverages React Router v6 for seamless client-server data flow.",
+      "url": "https://remix.run/",
+      "morelink": "remix"
+    },
+    {
+      "title": "Astro",
+      "description": "Islands architecture framework for content-rich websites with partial hydration. Ships zero JavaScript by default while supporting React/Vue/Svelte components. Features Markdown/MDX support, view transitions API, and hybrid rendering modes.",
+      "url": "https://astro.build/",
+      "morelink": "astro"
+    },
+    {
+      "title": "GraphQL",
+      "description": "Query language for APIs enabling declarative data fetching with single endpoints. Eliminates over/under-fetching with strong typing and introspection. Ecosystem includes Apollo Client, Relay, and URQL for frontend integration with caching and normalized stores.",
+      "url": "https://graphql.org/",
+      "morelink": "graphql"
+    },
+    {
+      "title": "TanStack Query",
+      "description": "Data synchronization library for managing server state with caching, background updates, and pagination. Features declarative APIs, infinite query support, and optimistic UI mutations. Replaces traditional state management for async data workflows.",
+      "url": "https://tanstack.com/query",
+      "morelink": "react-query"
+    },
+    {
+      "title": "Storybook 7",
+      "description": "UI component workshop for isolated development and testing. Supports documentation, accessibility checks, visual testing, and interaction playgrounds. Integrates with Chromatic for visual regression testing and component catalog hosting.",
+      "url": "https://storybook.js.org/",
+      "morelink": "storybook"
+    },
+    {
+      "title": "Playwright",
+      "description": "End-to-end testing framework for modern web apps with cross-browser support. Features auto-wait, network interception, component testing, and trace viewer. Supports multiple languages including JavaScript, TypeScript, Python, and C#.",
+      "url": "https://playwright.dev/",
+      "morelink": "playwright"
+    },
+    {
+      "title": "Zustand",
+      "description": "Minimal state management solution using simplified flux principles with mutable update patterns. Features zero boilerplate, middleware support, and seamless integration with React Concurrent Mode. Efficiently manages global state without context providers.",
+      "url": "https://zustand-demo.pmnd.rs/",
+      "morelink": "zustand"
+    },
+    {
+      "title": "Three.js",
+      "description": "WebGL-based 3D library for creating interactive experiences with physics, shaders, and VR support. Ecosystem includes React Three Fiber for declarative scene composition and Drei for prebuilt components. Used for product visualizations, games, and data visualization.",
+      "url": "https://threejs.org/",
+      "morelink": "threejs"
+    },
+    {
+      "title": "WebAssembly",
+      "description": "Binary instruction format enabling near-native performance in web applications. Supports languages like Rust, C++, and Go for compute-intensive tasks. Used for video editing, CAD applications, scientific simulations, and gaming.",
+      "url": "https://webassembly.org/",
+      "morelink": "webassembly"
+    },
+    {
+      "title": "Turborepo",
+      "description": "High-performance build system for JavaScript/TypeScript monorepos with intelligent caching. Features remote caching, task pipelines, and dependency graph optimization. Integrates with major frameworks and package managers.",
+      "url": "https://turbo.build/repo",
+      "morelink": "turborepo"
+    },
+    {
+      "title": "ESBuild",
+      "description": "Extremely fast JavaScript bundler written in Go with 10-100x speed improvements. Supports TypeScript, JSX, and minification in a single package. Used as foundation for Vite and other modern build tools.",
+      "url": "https://esbuild.github.io/",
+      "morelink": "esbuild"
+    },
+    {
+      "title": "Redux Toolkit",
+      "description": "Official opinionated Redux setup with simplified store configuration and immutable update logic. Includes RTK Query for data fetching/caching and Immer for mutable-style reducers. Modern approach to state management in large applications.",
+      "url": "https://redux-toolkit.js.org/",
+      "morelink": "redux"
+    },
+    {
+      "title": "D3.js",
+      "description": "Data visualization library for dynamic, interactive charts using web standards. Features declarative data binding, transition animations, and extensive layout algorithms. Integrates with modern frameworks for complex dashboards.",
+      "url": "https://d3js.org/",
+      "morelink": "d3"
+    },
+    {
+      "title": "Nuxt.js 3",
+      "description": "Full-stack Vue framework with hybrid rendering, auto-imports, and Nitro server engine. Features file-based routing, server APIs, and powerful data fetching. The standard for production Vue applications.",
+      "url": "https://nuxt.com/",
+      "morelink": "nuxt"
+    },
+    {
+      "title": "SolidJS",
+      "description": "Declarative JavaScript library with fine-grained reactivity using compiler optimizations. Delivers React-like syntax with faster performance and smaller bundles through compiled reactivity primitives.",
+      "url": "https://www.solidjs.com/",
+      "morelink": "solidjs"
+    },
+    {
+      "title": "Bun",
+      "description": "All-in-one JavaScript runtime, package manager, bundler and test runner. Built in Zig for exceptional speed, offering Node.js-compatible APIs with native performance advantages.",
+      "url": "https://bun.sh/",
+      "morelink": "bun"
+    },
+    {
+      "title": "tRPC",
+      "description": "End-to-end type-safe API layer for full-stack TypeScript applications. Enables automatic client-server type synchronization without code generation or schemas.",
+      "url": "https://trpc.io/",
+      "morelink": "trpc"
+    },
+    {
+      "title": "React Native",
+      "description": "Framework for building native mobile apps using React. Shares business logic across platforms while delivering native UI performance through platform-specific rendering.",
+      "url": "https://reactnative.dev/",
+      "morelink": "react-native"
+    },
+    {
+      "title": "Framer Motion",
+      "description": "Production-ready animation library for React. Features gesture support, layout animations, and simplified API for complex UI transitions.",
+      "url": "https://www.framer.com/motion/",
+      "morelink": "framer-motion"
+    }
+  ]
+}

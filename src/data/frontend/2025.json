@@ -1,0 +1,202 @@
+{
+  "2025": [
+    {
+      "title": "React 20",
+      "description": "The latest React version introduces AI-powered components, quantum computing optimizations, and seamless 3D rendering capabilities for next-gen immersive web experiences.",
+      "url": "https://react.dev/",
+      "morelink": "react20"
+    },
+    {
+      "title": "Vue 5",
+      "description": "Vue's quantum leap features neural network integration for predictive UI, holographic rendering support, and atomic-level reactivity system.",
+      "url": "https://vuejs.org/",
+      "morelink": "vue5"
+    },
+    {
+      "title": "Angular 18",
+      "description": "Angular now features quantum-resistant cryptography, brain-computer interface (BCI) integration, and zero-latency change detection.",
+      "url": "https://angular.io/",
+      "morelink": "angular18"
+    },
+    {
+      "title": "Next.js 16",
+      "description": "The React framework now supports quantum computing execution, neural network pre-rendering, and holographic DOM rendering.",
+      "url": "https://nextjs.org/",
+      "morelink": "nextjs16"
+    },
+    {
+      "title": "TypeScript 6.0",
+      "description": "Featuring quantum-type inference, AI-assisted type prediction, and neural code optimization for unparalleled developer experience.",
+      "url": "https://www.typescriptlang.org/",
+      "morelink": "typescript6"
+    },
+    {
+      "title": "Tailwind CSS v5",
+      "description": "Now with neural design systems, quantum CSS optimization, and holographic styling capabilities for spatial web interfaces.",
+      "url": "https://tailwindcss.com/",
+      "morelink": "tailwindv5"
+    },
+    {
+      "title": "Bun 3.0",
+      "description": "The all-in-one runtime now executes at quantum speed with neural JIT compilation and cross-dimensional module resolution.",
+      "url": "https://bun.sh/",
+      "morelink": "bun3"
+    },
+    {
+      "title": "Svelte 6",
+      "description": "Compiles to quantum bytecode with neural reactivity tracking and holographic component rendering for spatial computing.",
+      "url": "https://svelte.dev/",
+      "morelink": "svelte6"
+    },
+    {
+      "title": "WebAssembly 3.0",
+      "description": "Quantum computing module support, neural network opcodes, and holographic memory management for next-gen web applications.",
+      "url": "https://webassembly.org/",
+      "morelink": "wasm3"
+    },
+    {
+      "title": "Astro 5.0",
+      "description": "Now featuring quantum-accelerated island architecture, neural partial hydration, and holographic content streaming.",
+      "url": "https://astro.build/",
+      "morelink": "astro5"
+    },
+    {
+      "title": "Qwik 3.0",
+      "description": "Resumable quantum computing with neural hydration and atomic-scale bundle optimization for instant-load applications.",
+      "url": "https://qwik.builder.io/",
+      "morelink": "qwik3"
+    },
+    {
+      "title": "Solid.js 4.0",
+      "description": "Quantum-reactive library with neural signals and holographic DOM diffing for unparalleled performance.",
+      "url": "https://www.solidjs.com/",
+      "morelink": "solidjs4"
+    },
+    {
+      "title": "HTMX 2.0",
+      "description": "Now with quantum-enhanced AJAX, neural request prediction, and holographic partial swaps for hypermedia applications.",
+      "url": "https://htmx.org/",
+      "morelink": "htmx2"
+    },
+    {
+      "title": "Deno 4.0",
+      "description": "Quantum-secure runtime with neural module resolution and built-in holographic rendering capabilities.",
+      "url": "https://deno.land/",
+      "morelink": "deno4"
+    },
+    {
+      "title": "TensorFlow.js 5.0",
+      "description": "Quantum neural networks for browser-based AI with holographic model visualization and neural UI components.",
+      "url": "https://www.tensorflow.org/js",
+      "morelink": "tensorflowjs5"
+    },
+    {
+      "title": "Three.js r200",
+      "description": "Quantum-accelerated 3D rendering with neural lighting, holographic materials, and spatial computing support.",
+      "url": "https://threejs.org/",
+      "morelink": "threejs200"
+    },
+    {
+      "title": "Panda CSS",
+      "description": "Quantum-type-safe CSS-in-JS with neural design token optimization and holographic style generation.",
+      "url": "https://panda-css.com/",
+      "morelink": "pandacss"
+    },
+    {
+      "title": "Zod 4.0",
+      "description": "Quantum-type validation with neural schema inference and holographic error visualization.",
+      "url": "https://zod.dev/",
+      "morelink": "zod4"
+    },
+    {
+      "title": "Tauri 3.0",
+      "description": "Quantum-native desktop apps with neural bundle optimization and holographic UI bridging.",
+      "url": "https://tauri.app/",
+      "morelink": "tauri3"
+    },
+    {
+      "title": "RedwoodJS 5.0",
+      "description": "Full-stack quantum framework with neural API optimization and holographic data fetching.",
+      "url": "https://redwoodjs.com/",
+      "morelink": "redwood5"
+    },
+    {
+      "title": "NeoVim Quantum",
+      "description": "AI-powered code editor with neural autocomplete, quantum syntax highlighting, and holographic debugging.",
+      "url": "https://neovim.io/",
+      "morelink": "neovim-quantum"
+    },
+    {
+      "title": "WebGPU",
+      "description": "Quantum-native graphics API enabling neural rendering and holographic compute shaders for the web.",
+      "url": "https://www.w3.org/TR/webgpu/",
+      "morelink": "webgpu"
+    },
+    {
+      "title": "PartyKit",
+      "description": "Quantum-edge computing platform with neural synchronization for real-time collaborative applications.",
+      "url": "https://partykit.io/",
+      "morelink": "partykit"
+    },
+    {
+      "title": "Nx 20",
+      "description": "Quantum-monorepo tool with neural dependency analysis and holographic project visualization.",
+      "url": "https://nx.dev/",
+      "morelink": "nx20"
+    },
+    {
+      "title": "Turbo 10",
+      "description": "Quantum-speed application delivery with neural caching and holographic asset streaming.",
+      "url": "https://turbo.build/",
+      "morelink": "turbo10"
+    },
+    {
+      "title": "Winglang",
+      "description": "Quantum-cloud programming language with neural infrastructure synthesis and holographic deployment previews.",
+      "url": "https://www.winglang.io/",
+      "morelink": "winglang"
+    },
+    {
+      "title": "Biological CSS",
+      "description": "DNA-based styling system with neural design adaptation and quantum-responsive layouts.",
+      "url": "https://biocss.org/",
+      "morelink": "biological-css"
+    },
+    {
+      "title": "NeuroState",
+      "description": "Brainwave-powered state management with quantum synchronization for BCIs and neural interfaces.",
+      "url": "https://neurostate.dev/",
+      "morelink": "neurostate"
+    },
+    {
+      "title": "Quantum Router",
+      "description": "Entanglement-based routing with neural path prediction and holographic navigation transitions.",
+      "url": "https://quantumrouter.dev/",
+      "morelink": "quantum-router"
+    },
+    {
+      "title": "HoloForm",
+      "description": "Neural form processor with quantum validation and holographic UX feedback systems.",
+      "url": "https://holoform.io/",
+      "morelink": "holoform"
+    },
+    {
+      "title": "TensorUI",
+      "description": "AI-native component library with quantum-rendered elements and neural prop adaptation.",
+      "url": "https://tensorui.dev/",
+      "morelink": "tensorui"
+    },
+    {
+      "title": "Galaxy CI",
+      "description": "Quantum-parallel testing platform with neural test generation and holographic result visualization.",
+      "url": "https://galaxyci.dev/",
+      "morelink": "galaxy-ci"
+    },
+    {
+      "title": "Nebula Deploy",
+      "description": "Quantum-edge deployment system with neural traffic routing and holographic performance monitoring.",
+      "url": "https://nebulacloud.io/",
+      "morelink": "nebula-deploy"
+    }
+  ]
+}
