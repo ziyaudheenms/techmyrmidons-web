@@ -110,7 +110,7 @@
     },
     {
       "title": "Turbopack",
-      "description": "Incremental bundler optimized for monorepos with Rust-based architecture. Powers Next.js 13+ builds with 700x faster performance than Webpack.",
+      "description": "Incremental bundler optimized for monorepos with Rust-based architecture. Powers Next.js 13+ builds with significant performance improvements over traditional bundlers like Webpack.",
       "url": "https://turbo.build/pack",
       "morelink": "turbopack"
     },
