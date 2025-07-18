@@ -1,0 +1,34 @@
+{
+  "2017": [
+    {
+      "title": "OSSEC",
+      "description": "OSSEC (Open Source HIDS SECurity) is a host‑based intrusion detection system. It performs real‑time log analysis, file integrity monitoring, rootkit detection, Windows registry monitoring, time‑based alerting, and active response across multiple platforms including Linux, Windows, macOS, and more.",
+      "url": "https://www.ossec.net/",
+      "morelink": "OSSEC"
+    },
+    {
+      "title": "Suricata",
+      "description": "Suricata, developed by the Open Information Security Foundation, is an open‑source network intrusion detection and prevention system (IDS/IPS). It inspects network traffic using powerful rulesets to detect attacks like port scans, DoS, brute‑force, pass‑the‑hash, and more.",
+      "url": "https://suricata‑ids.org/",
+      "morelink": "Suricata"
+    },
+    {
+      "title": "MISP Threat Sharing",
+      "description": "MISP (Malware Information Sharing Platform) is an open‑source threat intelligence platform initiated in 2011 and grew significantly through 2017. It enables sharing of indicators of compromise (IOCs), threat information, and vulnerability data in a structured, machine‑readable way.",
+      "url": "https://www.misp‑project.org/",
+      "morelink": "MISP Threat Sharing"
+    },
+    {
+      "title": "Atomic Red Team",
+      "description": "Atomic Red Team, open‑sourced by Red Canary in 2017, is a library of simple, automated tests mapped to the MITRE ATT&CK framework. It allows organizations to simulate attacks to verify that their detection and response systems work effectively.",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "morelink": "Atomic Red Team"
+    },
+    {
+      "title": "SS7/Diameter Open‑Source Toolkit (P1 Security)",
+      "description": "In July 2017, P1 Security released an open‑source toolkit at Black Hat to address critical vulnerabilities in the SS7 and Diameter telecom signaling protocols—providing encryption and firewall reference tools to protect against interception and tracking.",
+      "url": "https://p1security.net/",
+      "morelink": "SS7 Toolkit"
+    }
+  ]
+}
