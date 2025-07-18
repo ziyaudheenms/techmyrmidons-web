@@ -42,3 +42,4 @@ jobs:
 
           # ✅ Force push using PAT directly (fixes 403 errors)
           git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+#end of file
