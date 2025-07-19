@@ -1,19 +1,23 @@
 {
+
   "follow": [
-    {
-      "followLink": "https://twitter.com/petewarden",
-      "photo": "PeteWarden.jpg",
-      "name": "Pete Warden"
+
+   {
+      "followLink":"https://addyosmani.com/",
+      "photo":"addy.jpg",
+      "name":"Addy Osmani"
     },
+
     {
-      "followLink": "https://twitter.com/staceyhigginb",
-      "photo": "StaceyHigginbotham.jpg",
-      "name": "Stacey Higginbotham"
+      "followLink":"http://christianheilmann.com/",
+      "photo":"heilmann.jpg",
+      "name":"Christian Heilmann"
     },
+
     {
-      "followLink": "https://twitter.com/alexwilliams",
-      "photo": "AlexWilliams.jpg",
-      "name": "Alex Williams"
+      "followLink":"https://www.paulirish.com/",
+      "photo":"irish.jpg",
+      "name":"Paul Irish"
     }
   ]
 }
