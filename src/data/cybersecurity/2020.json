@@ -1,34 +1,40 @@
 {
-  "2019": [
+  "2020": [
     {
-      "title": "Ghidra",
-      "description": "Ghidra is NSA‑developed open‑source reverse engineering framework released in March 2019 at RSA. Supports decompilation, collaboration on Windows, macOS, Linux.",
-      "url": "https://ghidra-sre.org/",
-      "morelink": "Ghidra"
-    },
-    {
-      "title": "Sigstore",
-      "description": "Sigstore, launched in 2019 by Google/RedHat/Linux Foundation, is an open‑source code‑signing solution to secure software supply chains with transparent public logs.",
-      "url": "https://sigstore.dev/",
-      "morelink": "Sigstore"
+      "title": "OneFuzz",
+      "description": "OneFuzz is Microsoft’s open‑source fuzz‑testing framework released in September 2020, enabling continuous automated bug discovery on Windows and Linux platforms.",
+      "url": "https://github.com/microsoft/onefuzz",
+      "morelink": "OneFuzz"
     },
     {
       "title": "Semgrep",
-      "description": "Semgrep (open‑source static analysis tool) first released in February 2020, built on code from 2019 and earlier sgrep, offering customizable rule‑based code scanning.",
+      "description": "Semgrep, released in February 2020 as an evolution of sgrep, is an open‑source static code analysis tool supporting customizable, rule‑based detection across 30+ languages.",
       "url": "https://semgrep.dev/",
       "morelink": "Semgrep"
     },
     {
-      "title": "Keystone",
-      "description": "Keystone, released July 2019, is an open‑source framework for building Trusted Execution Environments (TEEs) on RISC‑V hardware.",
-      "url": "https://github.com/keystone-enclave/keystone",
-      "morelink": "Keystone"
+      "title": "KubiScan",
+      "description": "KubiScan, unveiled at Black Hat USA 2020, is an open‑source Kubernetes scanner that audits clusters for misconfigurations and privileged tokens.",
+      "url": "https://github.com/EviatarGerzi/kubiscan",
+      "morelink": "KubiScan"
     },
     {
-      "title": "PTHelper",
-      "description": "PTHelper, introduced in mid‑2024 from academic work stemming in 2019, is a modular open‑source tool to automate penetration testing workflows.",
-      "url": "https://arxiv.org/abs/2406.08242",
-      "morelink": "PTHelper"
+      "title": "ATTPwn",
+      "description": "ATTPwn, introduced at Black Hat USA 2020, is an adversary emulation tool mapped to MITRE ATT&CK, aiding penetration testers in simulating ransomware‑style attacks.",
+      "url": "https://github.com/ATTACK‑tools/ATTPwn",
+      "morelink": "ATTPwn"
+    },
+    {
+      "title": "Psalm (taint analysis)",
+      "description": "Vimeo’s Psalm security tool added taint analysis in mid‑2020, enabling detection of XSS and SQL injection via trusted/untrusted input tracking in PHP codebases.",
+      "url": "https://psalm.dev/",
+      "morelink": "Psalm"
+    },
+    {
+      "title": "Atheris",
+      "description": "Atheris is Google’s open‑source coverage‑guided fuzzer for Python and native extensions, first released in 2020 to help detect logic and memory errors.",
+      "url": "https://github.com/google/atheris",
+      "morelink": "Atheris"
     }
   ]
 }
