@@ -1,0 +1,34 @@
+{
+  "2019": [
+    {
+      "title": "Ghidra",
+      "description": "Ghidra is NSA‑developed open‑source reverse engineering framework released in March 2019 at RSA. Supports decompilation, collaboration on Windows, macOS, Linux.",
+      "url": "https://ghidra-sre.org/",
+      "morelink": "Ghidra"
+    },
+    {
+      "title": "Sigstore",
+      "description": "Sigstore, launched in 2019 by Google/RedHat/Linux Foundation, is an open‑source code‑signing solution to secure software supply chains with transparent public logs.",
+      "url": "https://sigstore.dev/",
+      "morelink": "Sigstore"
+    },
+    {
+      "title": "Semgrep",
+      "description": "Semgrep (open‑source static analysis tool) first released in February 2020, built on code from 2019 and earlier sgrep, offering customizable rule‑based code scanning.",
+      "url": "https://semgrep.dev/",
+      "morelink": "Semgrep"
+    },
+    {
+      "title": "Keystone",
+      "description": "Keystone, released July 2019, is an open‑source framework for building Trusted Execution Environments (TEEs) on RISC‑V hardware.",
+      "url": "https://github.com/keystone-enclave/keystone",
+      "morelink": "Keystone"
+    },
+    {
+      "title": "PTHelper",
+      "description": "PTHelper, introduced in mid‑2024 from academic work stemming in 2019, is a modular open‑source tool to automate penetration testing workflows.",
+      "url": "https://arxiv.org/abs/2406.08242",
+      "morelink": "PTHelper"
+    }
+  ]
+}
