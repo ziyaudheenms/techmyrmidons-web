@@ -26,7 +26,7 @@
     },
     {
       "title": "Misconfig Mapper",
-      "description": "Misconfig Mapper, a Golang CLI introduced around 2022, detects cloud configuration issues and service misconfigurations using fingerprint templates.",
+      "description": "Misconfig Mapper, a Golang CLI introduced in 2022, focuses on detecting cloud configuration issues and service misconfigurations using fingerprint templates. It gained initial traction for its simplicity and effectiveness in identifying misconfigurations.",
       "url": "https://example.com/misconfig‑mapper",
       "morelink": "Misconfig Mapper"
     },
