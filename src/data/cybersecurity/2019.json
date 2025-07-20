@@ -14,7 +14,7 @@
     },
     {
       "title": "Semgrep",
-      "description": "Semgrep (open‑source static analysis tool) first released in February 2020, built on code from 2019 and earlier sgrep, offering customizable rule‑based code scanning.",
+      "description": "Semgrep (open‑source static analysis tool), officially released in February 2020, is built on foundational work from 2019 and earlier sgrep, offering customizable rule‑based code scanning.",
       "url": "https://semgrep.dev/",
       "morelink": "Semgrep"
     },
