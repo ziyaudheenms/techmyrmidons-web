@@ -8,7 +8,7 @@
     },
     {
       "title": "Sigstore",
-      "description": "Sigstore, launched in 2019 by Google/RedHat/Linux Foundation, is an open‑source code‑signing solution to secure software supply chains with transparent public logs.",
+      "description": "Sigstore, initially launched internally in 2019 by Google/RedHat/Linux Foundation and publicly launched in June 2021, is an open‑source code‑signing solution to secure software supply chains with transparent public logs.",
       "url": "https://sigstore.dev/",
       "morelink": "Sigstore"
     },
