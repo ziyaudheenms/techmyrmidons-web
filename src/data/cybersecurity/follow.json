@@ -1,0 +1,54 @@
+{
+  "follow": [
+    {
+      "followLink": "https://twitter.com/kimzetter",
+      "photo": "kimzetter.jpg",
+      "name": "Kim Zetter"
+    },
+    {
+      "followLink": "https://twitter.com/maddiestone",
+      "photo": "maddie.jpg",
+      "name": "Maddie Stone"
+    },
+    {
+      "followLink": "https://twitter.com/cyb3rops",
+      "photo": "florian.jpg",
+      "name": "Florian Roth"
+    },
+    {
+      "followLink": "https://twitter.com/campuscodi",
+      "photo": "catalin.jpg",
+      "name": "Catalin Cimpanu"
+    },
+    {
+      "followLink": "https://twitter.com/cglyer",
+      "photo": "christopher.jpg",
+      "name": "Christopher Glyer"
+    },
+    {
+      "followLink": "https://twitter.com/TroyHunt",
+      "photo": "troy.jpg",
+      "name": "Troy Hunt"
+    },
+    {
+      "followLink": "https://twitter.com/SchneierBlog",
+      "photo": "bruce.jpg",
+      "name": "Bruce Schneier"
+    },
+    {
+      "followLink": "https://twitter.com/hacks4pancakes",
+      "photo": "lesley.jpg",
+      "name": "Lesley Carhart"
+    },
+    {
+      "followLink": "https://twitter.com/K3r3n3",
+      "photo": "keren.jpg",
+      "name": "Keren Elazari"
+    },
+    {
+      "followLink": "https://twitter.com/MikkoHypponen",
+      "photo": "mikko.jpg",
+      "name": "Mikko Hyppönen"
+    }
+  ]
+}

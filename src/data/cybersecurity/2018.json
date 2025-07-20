@@ -1,0 +1,34 @@
+{
+  "2018": [
+    {
+      "title": "Zeek (formerly Bro)",
+      "description": "Zeek, rebranded from Bro in 2018, is a powerful open‑source network security monitoring platform providing deep insights and protocol analysis across large networks.",
+      "url": "https://zeek.org/",
+      "morelink": "Zeek"
+    },
+    {
+      "title": "Lynis",
+      "description": "Lynis is an extensible open‑source security auditing and hardening tool for Unix‑based systems (Linux, macOS, BSD), widely adopted after feature expansions in 2018–2019.",
+      "url": "https://cisofy.com/lynis/",
+      "morelink": "Lynis"
+    },
+    {
+      "title": "ZMap",
+      "description": "ZMap is an open‑source fast internet scanner capable of scanning the entire IPv4 address space in minutes; it saw increased use and updates around 2018.",
+      "url": "https://zmap.io/",
+      "morelink": "ZMap"
+    },
+    {
+      "title": "OSQuery enhancements",
+      "description": "Originally from 2014, OSQuery gained major community, cloud, and cross‑platform enhancements in 2018, making it a common choice for host‑based inventory, telemetry, and security auditing.",
+      "url": "https://osquery.io/",
+      "morelink": "OSQuery"
+    },
+    {
+      "title": "Security Onion 16",
+      "description": "Security Onion, a Linux distro for network security monitoring (bundling Zeek, Suricata, Wazuh, etc.), released major 2018 updates improving integrated detection, indexing, and visualization.",
+      "url": "https://securityonion.net/",
+      "morelink": "Security Onion"
+    }
+  ]
+}
