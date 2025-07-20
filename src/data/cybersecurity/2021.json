@@ -1,0 +1,40 @@
+{
+  "2021": [
+    {
+      "title": "Sigstore",
+      "description": "Sigstore, publicly launched in June 2021 by Google, Red Hat and Linux Foundation collaborators, offers open‑source code signing and transparent logging to secure software supply chains.",
+      "url": "https://sigstore.dev/",
+      "morelink": "Sigstore"
+    },
+    {
+      "title": "Wolfi (Chainguard Linux distro)",
+      "description": "Wolfi, released in 2021 by Chainguard, is an open‑source Linux distribution designed for supply‑chain hardened containers and reproducible builds.",
+      "url": "https://chainguard.dev/",
+      "morelink": "Wolfi"
+    },
+    {
+      "title": "Sysdig Falco (Cloud‑native runtime)",
+      "description": "Falco, Sysdig’s CNCF runtime security project, saw major growth in 2021 as a tool to detect anomalous system calls and Kubernetes API activity in production.",
+      "url": "https://falco.org/",
+      "morelink": "Falco"
+    },
+    {
+      "title": "privacyIDEA",
+      "description": "privacyIDEA is an open‑source multi‑factor authentication system highlighted in 2021 as a robust MFA solution for enterprise identity and access security.",
+      "url": "https://privacyidea.org/",
+      "morelink": "privacyIDEA"
+    },
+    {
+      "title": "ProFuzzBench",
+      "description": "ProFuzzBench, published in early 2021, is an open‑source benchmark suite targeting stateful protocol fuzzing across common server implementations.",
+      "url": "https://arxiv.org/abs/2101.05102",
+      "morelink": "ProFuzzBench"
+    },
+    {
+      "title": "CVEfixes",
+      "description": "CVEfixes, introduced in July 2021, automatically collects CVE‑documented vulnerabilities and associated patches from open‑source repositories, facilitating security research.",
+      "url": "https://arxiv.org/abs/2107.08760",
+      "morelink": "CVEfixes"
+    }
+  ]
+}

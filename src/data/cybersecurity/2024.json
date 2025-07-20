@@ -1,0 +1,40 @@
+{
+  "2024": [
+    {
+      "title": "1 TRACE",
+      "description": "1 TRACE is a web‑based open‑source intelligence (OSINT) and digital investigation platform launched in 2024, integrating SOCMINT, CYBINT, FININT, GEOINT, dark web monitoring, credential leak analysis, and visual graphing.",
+      "url": "https://1trace.space",
+      "morelink": "1 TRACE"
+    },
+    {
+      "title": "AdvSecureNet",
+      "description": "AdvSecureNet is a PyTorch‑based open‑source toolkit for adversarial machine learning released in 2024, supporting multi‑GPU attacks/defenses, CLI/API usage, YAML config, and reproducible evaluation.",
+      "url": "https://github.com/melihcatal/advsecurenet",
+      "morelink": "AdvSecureNet"
+    },
+    {
+      "title": "LLMSecGuard (LLM Security Guard for Code)",
+      "description": "LLMSecGuard is an open‑source framework from May 2024 combining static code analysis and LLMs to generate more secure code and benchmark LLM output security.",
+      "url": "https://arxiv.org/abs/2405.01103",
+      "morelink": "LLMSecGuard"
+    },
+    {
+      "title": "SafeLine",
+      "description": "SafeLine is an open‑source self‑hosted Web Application Firewall (WAF) introduced in Dec 2024 to protect web apps from common attacks.",
+      "url": "https://example.com/safeline",
+      "morelink": "SafeLine"
+    },
+    {
+      "title": "Trapster Community",
+      "description": "Trapster Community is a lightweight, low‑interaction honeypot platform released in late 2024, designed to detect internal network threats.",
+      "url": "https://example.com/trapster",
+      "morelink": "Trapster Community"
+    },
+    {
+      "title": "FuzzyAI",
+      "description": "FuzzyAI, launched in Dec 2024, is an open‑source framework specializing in automated fuzzing of large language models for guardrail bypass and malicious prompt testing.",
+      "url": "https://example.com/fuzzyai",
+      "morelink": "FuzzyAI"
+    }
+  ]
+}
