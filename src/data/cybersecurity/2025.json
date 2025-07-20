@@ -1,0 +1,40 @@
+{
+  "2025": [
+    {
+      "title": "LlamaFirewall",
+      "description": "LlamaFirewall is an open‑source guardrail framework introduced in mid‑2025 to mitigate security risks from AI agents—guarding prompt injection, misalignment, insecure code output, and jailbreaks.",
+      "url": "https://arxiv.org/abs/2505.03574",
+      "morelink": "LlamaFirewall"
+    },
+    {
+      "title": "GoSearch",
+      "description": "GoSearch is an open‑source OSINT tool for mapping digital footprints and usernames, gaining traction in early 2025 for threat hunting workflows.",
+      "url": "https://example.com/gosearch",
+      "morelink": "GoSearch"
+    },
+    {
+      "title": "Kunai",
+      "description": "Kunai is a Linux‑focused open‑source threat hunting tool providing detailed kernel‑level and event monitoring introduced in February 2025.",
+      "url": "https://example.com/kunai",
+      "morelink": "Kunai"
+    },
+    {
+      "title": "Misconfig Mapper",
+      "description": "Misconfig Mapper is a Golang CLI tool for identifying cloud and service misconfigurations, gaining in popularity through early 2025.",
+      "url": "https://example.com/misconfig‑mapper",
+      "morelink": "Misconfig Mapper"
+    },
+    {
+      "title": "BadDNS",
+      "description": "BadDNS is a Python‑based domain/subdomain takeover scanner that continued adoption into 2025, helping security teams detect takeover risks.",
+      "url": "https://example.com/baddns",
+      "morelink": "BadDNS"
+    },
+    {
+      "title": "OSV‑Scanner / OSV‑Scalibr",
+      "description": "Google’s open‑source OSV‑Scanner (and OSV‑Scalibr) received a major update in early 2025 to extract dependency manifests and binary artifacts for more accurate vulnerability scanning.",
+      "url": "https://example.com/osv‑scanner",
+      "morelink": "OSV‑Scanner"
+    }
+  ]
+}
