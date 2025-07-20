@@ -1,0 +1,60 @@
+{
+  "cyber_security_blogs": [
+    {
+      "blog": "https://danielmiessler.com/",
+      "author": "Unsupervised Learning (Daniel Miessler)"
+    },
+    {
+      "blog": "https://krebsonsecurity.com/",
+      "author": "Krebs on Security (Brian Krebs)"
+    },
+    {
+      "blog": "https://www.schneier.com/",
+      "author": "Schneier on Security (Bruce Schneier)"
+    },
+    {
+      "blog": "https://thehackernews.com/",
+      "author": "The Hacker News"
+    },
+    {
+      "blog": "https://www.darkreading.com/",
+      "author": "Dark Reading"
+    },
+    {
+      "blog": "https://www.infosecurity-magazine.com/",
+      "author": "Infosecurity Magazine"
+    },
+    {
+      "blog": "https://www.tripwire.com/blog/",
+      "author": "Tripwire"
+    },
+    {
+      "blog": "https://www.securityweekly.com/",
+      "author": "Security Weekly"
+    },
+    {
+      "blog": "https://www.troyhunt.com/",
+      "author": "Troy Hunt"
+    },   
+    {
+      "blog": "https://www.sans.org/blog/",
+      "author": "SANS Cyber Security Blog"
+    },
+    {
+      "blog": "https://heimdalsecurity.com/blog/",
+      "author": "Heimdal Security"
+    },
+    {
+      "blog": "https://levelblue.com/blogs",
+      "author": "LevelBlue"
+    },
+    {
+      "blog": "https://letsdefend.io/blog/",
+      "author": "LetsDefend"
+    },
+    {
+      "blog": "https://darknetdiaries.com/",
+      "author": "Darknet Diaries (Jack Rhysider)"
+    }
+  ]
+}
