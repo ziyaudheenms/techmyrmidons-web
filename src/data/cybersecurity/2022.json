@@ -1,0 +1,40 @@
+{
+  "2022": [
+    {
+      "title": "OpenSearch",
+      "description": "OpenSearch, launched in January 2021 but gaining major traction in 2022, is a community‑driven fork of Elasticsearch and Kibana for search, analytics, and foundational SIEM capabilities.",
+      "url": "https://opensearch.org/",
+      "morelink": "OpenSearch"
+    },
+    {
+      "title": "OWASP ZAP by Checkmarx",
+      "description": "OWASP ZAP (Zed Attack Proxy), moved to the Linux Foundation and rebranded in late 2022, is an advanced open‑source DAST scanner for web apps with enhanced plugin and API support.",
+      "url": "https://www.zaproxy.org/",
+      "morelink": "ZAP"
+    },
+    {
+      "title": "ClamAV",
+      "description": "ClamAV, a cross‑platform open‑source antivirus engine widely used on mail servers and endpoints, continued active maintenance and signature updates through 2022.",
+      "url": "https://www.clamav.net/",
+      "morelink": "ClamAV"
+    },
+    {
+      "title": "Vet",
+      "description": "Vet is an open‑source software supply‑chain security tool that analyzes dependencies to detect known vulnerabilities and potentially malicious packages, highlighted in 2022.",
+      "url": "https://example.com/vet",
+      "morelink": "Vet"
+    },
+    {
+      "title": "Misconfig Mapper",
+      "description": "Misconfig Mapper, a Golang CLI introduced around 2022, detects cloud configuration issues and service misconfigurations using fingerprint templates.",
+      "url": "https://example.com/misconfig‑mapper",
+      "morelink": "Misconfig Mapper"
+    },
+    {
+      "title": "BadDNS",
+      "description": "BadDNS, a Python‑based open‑source tool to scan for domain/subdomain takeover risks, saw updates and increased adoption in 2022.",
+      "url": "https://example.com/baddns",
+      "morelink": "BadDNS"
+    }
+  ]
+}
