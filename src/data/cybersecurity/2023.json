@@ -1,0 +1,40 @@
+{
+  "2023": [
+    {
+      "title": "Wolfi (Chainguard Linux)",
+      "description": "Wolfi, released by Chainguard in 2023, is a security‑focused Linux distro designed for reproducible, supply‑chain hardened container builds.",
+      "url": "https://chainguard.dev/",
+      "morelink": "Wolfi"
+    },
+    {
+      "title": "Sysdig Falco",
+      "description": "Falco, a CNCF runtime security project, experienced major growth in 2023, offering real‑time detection for anomalous syscall and Kubernetes API behavior.",
+      "url": "https://falco.org/",
+      "morelink": "Falco"
+    },
+    {
+      "title": "LlamaFirewall",
+      "description": "LlamaFirewall, introduced in 2023, is a system‑level security framework aimed at protecting large‑language‑model‑powered applications from jailbreaks, prompt injection, and other AI‑centric threats.",
+      "url": "https://example.com/llamafirewall",
+      "morelink": "LlamaFirewall"
+    },
+    {
+      "title": "Woodpecker",
+      "description": "Woodpecker, launched in 2023, is an open‑source red‑teaming automation tool for AI systems, Kubernetes clusters, and APIs, designed to uncover and remediate security weaknesses.",
+      "url": "https://example.com/woodpecker",
+      "morelink": "Woodpecker"
+    },
+    {
+      "title": "IntelMQ",
+      "description": "IntelMQ, used for collecting and processing security feeds, received updates in 2023 increasing support for SOC and CERT telemetry ingestion.",
+      "url": "https://github.com/certtools/intelmq",
+      "morelink": "IntelMQ"
+    },
+    {
+      "title": "GoSearch",
+      "description": "GoSearch, an open‑source OSINT tool for mapping usernames and digital footprints, became prominent in 2023 threat‑hunting workflows.",
+      "url": "https://example.com/gosearch",
+      "morelink": "GoSearch"
+    }
+  ]
+}

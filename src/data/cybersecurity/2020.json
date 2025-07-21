@@ -1,0 +1,40 @@
+{
+  "2020": [
+    {
+      "title": "OneFuzz",
+      "description": "OneFuzz is Microsoft’s open‑source fuzz‑testing framework released in September 2020, enabling continuous automated bug discovery on Windows and Linux platforms.",
+      "url": "https://github.com/microsoft/onefuzz",
+      "morelink": "OneFuzz"
+    },
+    {
+      "title": "Semgrep",
+      "description": "Semgrep, released in February 2020 as an evolution of sgrep, is an open‑source static code analysis tool supporting customizable, rule‑based detection across 30+ languages.",
+      "url": "https://semgrep.dev/",
+      "morelink": "Semgrep"
+    },
+    {
+      "title": "KubiScan",
+      "description": "KubiScan, unveiled at Black Hat USA 2020, is an open‑source Kubernetes scanner that audits clusters for misconfigurations and privileged tokens.",
+      "url": "https://github.com/EviatarGerzi/kubiscan",
+      "morelink": "KubiScan"
+    },
+    {
+      "title": "ATTPwn",
+      "description": "ATTPwn, introduced at Black Hat USA 2020, is an adversary emulation tool mapped to MITRE ATT&CK, aiding penetration testers in simulating ransomware‑style attacks.",
+      "url": "https://github.com/ATTACK‑tools/ATTPwn",
+      "morelink": "ATTPwn"
+    },
+    {
+      "title": "Psalm (taint analysis)",
+      "description": "Vimeo’s Psalm security tool added taint analysis in mid‑2020, enabling detection of XSS and SQL injection via trusted/untrusted input tracking in PHP codebases.",
+      "url": "https://psalm.dev/",
+      "morelink": "Psalm"
+    },
+    {
+      "title": "Atheris",
+      "description": "Atheris is Google’s open‑source coverage‑guided fuzzer for Python and native extensions, first released in 2020 to help detect logic and memory errors.",
+      "url": "https://github.com/google/atheris",
+      "morelink": "Atheris"
+    }
+  ]
+}
