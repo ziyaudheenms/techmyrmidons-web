@@ -61,6 +61,11 @@
       "folderName": "iot"
     },
     {
+      "technology": "Marketing",
+      "logo": "marketing.png",
+      "folderName": "marketing"
+    },
+    {
       "technology": "foss",
       "logo": "foss.png",
       "folderName": "foss"
