@@ -117,7 +117,7 @@ const DomainDetails = () => {
         </div>
         <header>
           <div className={styles.container}>
-            <h1>{domain && domain[0].technology} Myrmidon</h1>
+          <h1>{domain && domain[0] ? domain[0].technology : "Unknown"} Myrmidon</h1>
             <p className={styles.tagline}>
               The best guide for you to start the next world.
             </p>
