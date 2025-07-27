@@ -1,1 +1,79 @@
-
+{
+  "2023": [
+    {
+      "title": "BrowserStack",
+      "description": "BrowserStack is a comprehensive cloud-based testing platform offering manual, automated, visual, low-code, and accessibility testing across 3500+ real browsers and devices. It includes tools like Live for manual testing, Automate for scalable automation, Percy for visual testing, and AI-powered Test Observability for real-time analytics. Ideal for cross-browser compatibility and real-world condition testing.",
+      "url": "https://www.browserstack.com/guide/quality-assurance-tools"
+    },
+    {
+      "title": "Selenium",
+      "description": "Selenium remains a leading open-source framework for web application testing, supporting multiple languages (Java, Python, C#, etc.) and browsers (Chrome, Firefox, Edge). Key features include parallel testing, integration with CI/CD pipelines, and compatibility with frameworks like TestNG. Selenium 4.23 introduced enhanced BiDi (Bidirectional) APIs and improved error handling.",
+      "url": "https://www.selenium.dev/downloads/"
+    },
+    {
+      "title": "Cypress",
+      "description": "A JavaScript-based end-to-end testing framework, Cypress simplifies debugging with real-time snapshots, automatic waiting, and readable error traces. It supports BDD/TDD assertions and integrates seamlessly with CI tools like Jenkins. Unlike Selenium, it runs directly in the browser for faster execution.",
+      "url": "https://www.browserstack.com/guide/quality-assurance-tools"
+    },
+    {
+      "title": "Playwright",
+      "description": "Developed by Microsoft, Playwright is a Node.js library for automating Chromium, Firefox, and WebKit with a single API. It supports cross-browser testing, mobile emulation, and visual regression testing. Features include auto-waiting, network interception, and code generation from user interactions.",
+      "url": "https://www.browserstack.com/guide/quality-assurance-tools"
+    },
+    {
+      "title": "Appium",
+      "description": "Appium is an open-source tool for mobile app testing (iOS/Android) using the WebDriver protocol. It supports real devices and emulators, requires no code modification, and integrates with Selenium. Ideal for hybrid and native app testing with language bindings for Java, Python, and Ruby.",
+      "url": "https://www.browserstack.com/guide/quality-assurance-tools"
+    },
+    {
+      "title": "OWASP ZAP (Zed Attack Proxy)",
+      "description": "A dynamic application security testing (DAST) tool, ZAP identifies vulnerabilities like SQL injection and XSS in running applications. It supports automation, penetration testing, and add-ons for extended functionality. Widely used for API security testing and compliance with OWASP Top 10.",
+      "url": "https://www.zaproxy.org/"
+    },
+    {
+      "title": "Postman",
+      "description": "Postman is a collaborative API testing platform with features like request building, automated testing, and mock servers. It simplifies API lifecycle management, supports GraphQL and REST, and integrates with CI/CD tools. Essential for validating API functionality and security.",
+      "url": "https://www.revelo.com/blog/qa-testing-tools"
+    },
+    {
+      "title": "JMeter",
+      "description": "Apache JMeter is an open-source load and performance testing tool for web applications. It simulates heavy traffic to measure scalability, analyzes performance bottlenecks, and supports distributed testing. Integrates with Jenkins for CI/CD pipelines.",
+      "url": "https://www.revelo.com/blog/qa-testing-tools"
+    },
+    {
+      "title": "Katalon Studio",
+      "description": "A low-code automation platform for web, mobile, and API testing. Offers dual scripting/keyword editors, Groovy support, and built-in integrations with Jira and Git. Suitable for both technical and non-technical testers.",
+      "url": "https://www.revelo.com/blog/qa-testing-tools"
+    },
+    {
+      "title": "LambdaTest",
+      "description": "Cloud-based platform for cross-browser testing on 3000+ environments. Supports Selenium, Cypress, and Playwright scripts, with features like visual regression testing and smart TV testing. Offers live interactive debugging and CI/CD integrations.",
+      "url": "https://thectoclub.com/tools/qa-automation-tools/"
+    },
+    {
+      "title": "TestSigma",
+      "description": "AI-driven test automation tool for web, mobile, and API testing. Features codeless test creation, self-healing scripts, and built-in visual testing. Integrates with GitHub, Jenkins, and Jira for agile workflows.",
+      "url": "https://www.revelo.com/blog/qa-testing-tools"
+    },
+    {
+      "title": "SoapUI",
+      "description": "Specialized in SOAP/REST API testing, SoapUI offers functional, regression, and load testing with a user-friendly GUI. Supports Groovy scripting, data-driven testing, and security scans for vulnerabilities.",
+      "url": "https://www.browserstack.com/guide/quality-assurance-tools"
+    },
+    {
+      "title": "Cucumber",
+      "description": "A behavior-driven development (BDD) tool that allows writing tests in plain English (Gherkin syntax). Integrates with Ruby, Java, and JavaScript, fostering collaboration between technical and non-technical stakeholders.",
+      "url": "https://www.browserstack.com/guide/quality-assurance-tools"
+    },
+    {
+      "title": "Endtest",
+      "description": "Codeless test automation platform with self-healing capabilities and video recording. Supports web, mobile, and desktop apps, with integrations for Jenkins, GitLab, and BrowserStack.",
+      "url": "https://thectoclub.com/tools/qa-automation-tools/"
+    },
+    {
+      "title": "New Relic",
+      "description": "DevOps tool for real-time performance monitoring and analytics. Tracks application health, identifies bottlenecks, and offers Apdex scoring for user satisfaction metrics. Integrates with AWS, Slack, and CI/CD pipelines.",
+      "url": "https://thectoclub.com/tools/qa-automation-tools/"
+    }
+  ]
+}
