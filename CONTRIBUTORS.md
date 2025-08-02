@@ -8,10 +8,10 @@ Thanks to these awesome people:
 <a href="https://github.com/AswinAsok"><img src="https://avatars.githubusercontent.com/u/64626875?v=4" width="80" alt="AswinAsok" title="AswinAsok"/></a>
 <a href="https://github.com/AkhilaSunesh"><img src="https://avatars.githubusercontent.com/u/140897461?v=4" width="80" alt="AkhilaSunesh" title="AkhilaSunesh"/></a>
 <a href="https://github.com/VinuBalagopalAP"><img src="https://avatars.githubusercontent.com/u/48175345?v=4" width="80" alt="VinuBalagopalAP" title="VinuBalagopalAP"/></a>
+<a href="https://github.com/Sharx05"><img src="https://avatars.githubusercontent.com/u/144588462?v=4" width="80" alt="Sharx05" title="Sharx05"/></a>
 <a href="https://github.com/Naveen-unni"><img src="https://avatars.githubusercontent.com/u/189465628?v=4" width="80" alt="Naveen-unni" title="Naveen-unni"/></a>
 <a href="https://github.com/shameer-faya"><img src="https://avatars.githubusercontent.com/u/19203181?v=4" width="80" alt="shameer-faya" title="shameer-faya"/></a>
 <a href="https://github.com/reubenzzz"><img src="https://avatars.githubusercontent.com/u/90466947?v=4" width="80" alt="reubenzzz" title="reubenzzz"/></a>
-<a href="https://github.com/Sharx05"><img src="https://avatars.githubusercontent.com/u/144588462?v=4" width="80" alt="Sharx05" title="Sharx05"/></a>
 <a href="https://github.com/Basith-P"><img src="https://avatars.githubusercontent.com/u/59326665?v=4" width="80" alt="Basith-P" title="Basith-P"/></a>
 <a href="https://github.com/rejahrehim"><img src="https://avatars.githubusercontent.com/u/4394746?v=4" width="80" alt="rejahrehim" title="rejahrehim"/></a>
 <a href="https://github.com/edwinmvk"><img src="https://avatars.githubusercontent.com/u/84259272?v=4" width="80" alt="edwinmvk" title="edwinmvk"/></a>
