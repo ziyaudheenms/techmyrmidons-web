@@ -32,6 +32,10 @@
       "blog": "https://www.arm.com/company/news/blog",
       "author": "Arm IoT Blog"
     }
+    {
+      "blog": "https://www.digi.com/blog",
+      "author": "Digi IoT blog"
+    }
   ]
 }
 
