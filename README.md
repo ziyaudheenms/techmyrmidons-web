@@ -1,3 +1,4 @@
+![TPMLOGO](https://purple-movement.com/assets/logo_pm-Bx55hodj.png)
 # Tech Myrmidons
 ![Repo Banner](public/helpers/myrmidons-banner.png)
 ## About Us
