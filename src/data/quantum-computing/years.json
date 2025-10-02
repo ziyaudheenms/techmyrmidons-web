@@ -1,5 +1,9 @@
 {
-  "years": [ 
+  "years": [
+    {
+      "year" : "2021",
+      "url" : "/data/quantum-computing/2021.json"
+    },
     {
       "year" : "2020",
       "url" : "/data/quantum-computing/2020.json"
