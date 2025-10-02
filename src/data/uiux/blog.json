@@ -1,0 +1,13 @@
+{
+    "blog" : [
+        {
+            "blog": "https://www.uxdesigninstitute.com/blog/",
+            "author": "UX Design Institute"
+        }
+        ,
+        {
+            "blog":"https://uxdesign.cc/",
+            "author": "UX Collective"
+        }
+    ]
+}
