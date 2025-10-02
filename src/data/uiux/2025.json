@@ -1,0 +1,58 @@
+{
+     "2025": [
+    {
+      "title": "Material UI",
+      "description": "React UI components with Material Design, theming, and accessibility.",
+      "url": "https://mui.com/",
+      "morelink": "material-ui"
+    },
+    {
+      "title": "Tailwind UI",
+      "description": "Professionally designed, fully responsive UI components built with Tailwind CSS.",
+      "url": "https://tailwindui.com/",
+      "morelink": "tailwind-ui"
+    },
+    {
+      "title": "Radix UI",
+      "description": "Unstyled, accessible primitives for building high-quality design systems.",
+      "url": "https://www.radix-ui.com/",
+      "morelink": "radix-ui"
+    },
+    {
+      "title": "Framer",
+      "description": "High-fidelity prototyping and web builder with interactive components.",
+      "url": "https://www.framer.com/",
+      "morelink": "framer"
+    },
+    {
+      "title": "Storybook",
+      "description": "UI component workshop to build, document, and test components in isolation.",
+      "url": "https://storybook.js.org/",
+      "morelink": "storybook"
+    },
+    {
+      "title": "Nielsen Norman Group",
+      "description": "Authoritative UX research, heuristics, and best practices articles.",
+      "url": "https://www.nngroup.com/",
+      "morelink": "nng"
+    },
+    {
+      "title": "WAI-ARIA APG",
+      "description": "W3C Authoring Practices for accessible UI patterns and behaviors.",
+      "url": "https://www.w3.org/WAI/ARIA/apg/",
+      "morelink": "wai-aria-apg"
+    },
+    {
+      "title": "Smashing Magazine – UX",
+      "description": "Practical UX design articles, patterns, and case studies.",
+      "url": "https://www.smashingmagazine.com/category/ux-design/",
+      "morelink": "smashing-ux"
+    },
+    {
+      "title": "Lucide Icons",
+      "description": "Open-source SVG icon set for modern interfaces.",
+      "url": "https://lucide.dev/",
+      "morelink": "lucide"
+    }
+  ]
+}
