@@ -61,6 +61,11 @@
       "folderName": "iot"
     },
     {
+      "technology": "UI/UX",
+      "logo": "uiux.png",
+      "folderName": "uiux"
+    },
+    {
       "technology": "Marketing",
       "logo": "marketing.png",
       "folderName": "marketing"
