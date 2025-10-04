@@ -66,6 +66,11 @@
       "folderName": "uiux"
     },
     {
+      "technology": "CyberSecurity",
+      "logo": "cybersec.png",
+      "folderName": "cybersecurity"
+    },
+    {
       "technology": "Marketing",
       "logo": "marketing.png",
       "folderName": "marketing"
