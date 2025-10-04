@@ -74,6 +74,11 @@
       "technology": "foss",
       "logo": "foss.png",
       "folderName": "foss"
+    },
+    {
+      "technology": "Creative Design",
+      "logo": "cdesign.png",
+      "folderName": "creative-design"
     }
     ,{
       "technology": "UI/UX",
