@@ -81,6 +81,11 @@
       "folderName": "foss"
     },
     {
+      "technology": "Cyber Security",
+      "logo": "cybersec.png",
+      "folderName": "cybersecurity"
+    },
+    {
       "technology": "Creative Design",
       "logo": "cdesign.png",
       "folderName": "creative-design"
