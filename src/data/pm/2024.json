@@ -1,0 +1,34 @@
+{
+  "2024": [
+      {
+        "title": "ProductPlan",
+        "description": "Visual roadmaps and prioritization, gaining popularity in 2024.",
+        "url": "https://www.productplan.com/"
+      },
+      {
+        "title": "Lookback.io",
+        "description": "Conduct user interviews and research sessions.",
+        "url": "https://lookback.io/"
+      },
+      {
+        "title": "Mixpanel",
+        "description": "Product usage tracking and funnel analysis.",
+        "url": "https://mixpanel.com/"
+      },
+      {
+        "title": "Notion",
+        "description": "Notes, documentation, and project tracking for 2024 PMs.",
+        "url": "https://www.notion.so/"
+      },
+      {
+        "title": "Miro",
+        "description": "Collaborative whiteboard for brainstorming and flowcharts.",
+        "url": "https://miro.com/"
+      },
+      {
+        "title": "InVision",
+        "description": "Interactive prototypes and design handoff.",
+        "url": "https://www.invisionapp.com/"
+      }
+    ]
+}

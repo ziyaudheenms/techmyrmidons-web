@@ -1,3 +1,7 @@
 {
-  "years": []
+  "years": [
+      { "year": "2025", "url": "/data/pm/2025.json" },
+      { "year": "2024", "url": "/data/pm/2024.json" },
+      { "year": "2023", "url": "/data/pm/2023.json" }
+  ]
 }

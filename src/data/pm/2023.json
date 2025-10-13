@@ -1,0 +1,34 @@
+{
+  "2023": [
+    {
+      "title": "Jira",
+      "description": "Agile project management & sprint tracking, widely used in 2023.",
+      "url": "https://www.atlassian.com/software/jira"
+    },
+    {
+      "title": "Figma",
+      "description": "Collaborative UI/UX design and prototyping.",
+      "url": "https://www.figma.com/"
+    },
+    {
+      "title": "Hotjar",
+      "description": "Heatmaps and session recordings for user behavior insights.",
+      "url": "https://www.hotjar.com/"
+    },
+    {
+      "title": "Slack",
+      "description": "Team communication and collaboration.",
+      "url": "https://slack.com/"
+    },
+    {
+      "title": "Google Analytics",
+      "description": "Website and product analytics for tracking user behavior.",
+      "url": "https://analytics.google.com/"
+    },
+    {
+      "title": "Trello",
+      "description": "Simple Kanban boards for task management.",
+      "url": "https://trello.com/"
+    }
+  ]
+}

@@ -48,7 +48,7 @@ const DomainDetails = () => {
       });
     }
 
-    if (id !== "uiux" && id !== "creativedesign") {
+    if (id !== "uiux" && id !== "creativedesign" && id !== "pm") {
       import(`../../data/${id}/blog.json`).then((response) => {
         setBlogs(response.blog);
       });
@@ -102,6 +102,15 @@ const DomainDetails = () => {
         import(`../../data/creativedesign/creativedesignblogs/${year}.json`).then((response) => {
           const items = response && response[year] ? response[year] : [];
           const mapped = items.map((item) => ({ author: item.title, blog: item.url }));
+          setBlogs(mapped);
+        });
+      } else if (id === "pm") {
+        import(`../../data/pm/product-management-blogs/${year}.json`).then((response) => {
+          const items = response && response[year] ? response[year] : [];
+          const mapped = items.map((item) => ({
+            author: item.author ?? item.title,
+            blog: item.blog ?? item.url,
+          }));
           setBlogs(mapped);
         });
       }
