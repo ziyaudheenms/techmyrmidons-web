@@ -1,0 +1,20 @@
+{
+  "blog": [
+
+    {
+      "blog": "https://embeddedrelated.com/",
+      "author":"EmbeddedRelated"
+    },
+
+    {
+      "blog": "http://embedded.com/",
+      "author":"Embedded"
+    },
+
+    {
+      "blog": "https://interrupt.memfault.com/",
+      "author":"Interrupt"
+    }
+
+  ]
+}

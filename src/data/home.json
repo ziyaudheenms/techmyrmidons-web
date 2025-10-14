@@ -105,6 +105,12 @@
       "logo": "cdesign.png",
       "folderName": "creativedesign"
 
+    },
+    {
+      "technology": "Embedded Systems",
+      "logo": "embedded-system.png",
+      "folderName": "embedded-system"
+
     }
   ]
 }
