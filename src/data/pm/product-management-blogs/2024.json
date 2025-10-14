@@ -1,0 +1,16 @@
+{
+  "2024": [
+      {
+        "blog": "https://www.theproductfolks.com/product-management-blog",
+        "author": "The Product Folks"
+      },
+      {
+        "blog": "https://thoughtbot.com/blog/a-product-manager-s-guide-to-2025",
+        "author": "Thoughtbot Blog"
+      },
+      {
+        "blog": "https://www.airtable.com/articles/product/product-management-trends",
+        "author": "Airtable Blog"
+      }
+    ]
+}

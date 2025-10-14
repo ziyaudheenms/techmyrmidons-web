@@ -1,0 +1,35 @@
+ {
+  "2025": [
+      {
+        "title": "Aha!",
+        "description": "Product roadmaps, strategy, and ideas management.",
+        "url": "https://www.aha.io/"
+      },
+      {
+        "title": "Amplitude",
+        "description": "Behavioral analytics for user retention & growth, widely adopted in 2025.",
+        "url": "https://amplitude.com/"
+      },
+      {
+        "title": "ChatGPT",
+        "description": "AI-assisted writing, brainstorming, and analysis for PMs in 2025.",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "title": "Jasper.ai",
+        "description": "AI-powered content generation and documentation help.",
+        "url": "https://www.jasper.ai/"
+      },
+      {
+        "title": "Otter.ai",
+        "description": "AI transcription for meetings and interviews.",
+        "url": "https://otter.ai/"
+      },
+      {
+        "title": "Trello AI Power-ups",
+        "description": "AI automation and prioritization for Trello boards.",
+        "url": "https://trello.com/power-ups"
+      }
+    ]
+  }
+ 

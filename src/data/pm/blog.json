@@ -1,40 +1,7 @@
 {
-  "blog": [
-    {
-      "blog": "https://www.appcues.com/blog",
-      "author": "AppCues Blog"
-    },
-    {
-      "blog": "https://www.productplan.com/blog/",
-      "author": "ProductPlan"
-    },
-    {
-      "blog": "https://www.lennysnewsletter.com/",
-      "author": "Lenny’s Newsletter by Lenny Rachitsky"
-    },
-    {
-      "blog": "https://www.theproductfolks.com/product-management-blog",
-      "author": "The Product Folks "
-    },
-    {
-      "blog": "https://amplitude.com/blog",
-      "author": "Amplitude Blog"
-    },
-    {
-      "blog": "https://bestpracticer.com/topic/product-management",
-      "author": "Practica"
-    },
-    {
-      "blog": "https://www.airtable.com/articles/product-management-trends",
-      "author": "Airtable"
-    },
-    {
-      "blog": "https://productschool.com/blog",
-      "author": "Product School"
-    },
-    {
-      "blog": "https://tpgblog.com/",
-      "author": "The Product Guy"
-    }
+  "years": [
+    { "year": "2023", "url": "/data/pm/product-management-blogs/2023.json" },
+    { "year": "2024", "url": "/data/pm/product-management-blogs/2024.json" },
+    { "year": "2025", "url": "/data/pm/product-management-blogs/2025.json" }
   ]
 }
