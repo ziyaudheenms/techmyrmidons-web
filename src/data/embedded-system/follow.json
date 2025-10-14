@@ -1,0 +1,23 @@
+{
+
+  "follow": [
+
+   {
+      "followLink":"https://bhave.sh/",
+      "photo":"Bhavesh.jpg",
+      "name":"Bhavesh Kakwani"
+    },
+
+    {
+      "followLink":"https://www.linkedin.com/in/johndurkop/",
+      "photo":"John.jpg",
+      "name":"John Durkop"
+    },
+
+    {
+      "followLink":"https://www.linkedin.com/in/iantwanderson/",
+      "photo":"Ian.jpg",
+      "name":"Ian Anderson"
+    }
+  ]
+}

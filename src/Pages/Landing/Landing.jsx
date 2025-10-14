@@ -152,8 +152,14 @@ const Landing = () => {
               image="/assets/landing/foss.png"
               name="Foss"
               link="/foss"
-              description="FOSS (Free and Open Source Software) is software that anyone can use, modify, and share freely. It promotes collaboration, transparency, and community-driven development.
- "
+              description="FOSS (Free and Open Source Software) is software that anyone can use, modify, and share freely. It promotes collaboration, transparency, and community-driven development."
+            />
+            <Card
+              image="/assets/landing/embedded-system.png"
+              name="Embedded Systems"
+              link="/embedded-system"
+              description="An embedded system is a computer system designed to perform tasks within a larger mechanical or electronic device."
+              
             />
           </div>
         </div>
