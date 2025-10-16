@@ -1,0 +1,22 @@
+{
+  "2025": [
+    {
+      "title": "Getting Started With Zephyr",
+      "description": "Explains Zephyr Devicetrees and guides engineers through hardware-layer mapping for embedded projects.",
+      "url": "https://www.embeddedrelated.com/showarticle/1762.php",
+      "morelink": "embeddedrelated.com"
+    },
+    {
+      "title": "Better Hardware Design Decisions",
+      "description": "Introduces multidisciplinary design optimization for embedded hardware teams, leading to improved system trade-offs and faster development.",
+      "url": "https://www.embeddedrelated.com/showarticle/1745.php",
+      "morelink": "embeddedrelated.com"
+    },
+    {
+      "title": "Embedded Systems Roadmap",
+      "description": "Shares the logic, structure, and value of an engineering roadmap for embedded system learning and career growth.",
+      "url": "https://interrupt.memfault.com/blog/embedded-systems-roadmap-bridging-the-gap",
+      "morelink": "interrupt.memfault.com"
+    }
+  ]
+}
