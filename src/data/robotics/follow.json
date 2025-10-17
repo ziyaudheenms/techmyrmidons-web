@@ -1,0 +1,23 @@
+{
+
+  "follow": [
+
+   {
+      "followLink":"https://www.instagram.com/lexfridman/",
+      "photo":"lex.jpg",
+      "name":"Lex Fridman"
+    },
+
+    {
+      "followLink":"https://www.instagram.com/stevegiralt/",
+      "photo":"Steve.jpg",
+      "name":"Steve Giralt"
+    },
+
+    {
+      "followLink":"https://www.linkedin.com/in/cynthia-breazeal-1792317/",
+      "photo":"Cynthia.jpg",
+      "name":"Cynthia Breazeal"
+    }
+  ]
+}
