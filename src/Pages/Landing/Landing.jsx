@@ -164,7 +164,7 @@ const Landing = () => {
             <Card
               image="/assets/landing/robotics.png"
               name="Robotics & Automation"
-              link="/robotics"
+              link="/robotics-automation"
               description="Robotics & Automation is the integration of programmable machines with automated systems to perform tasks."
               
             />
