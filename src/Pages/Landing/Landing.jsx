@@ -161,6 +161,13 @@ const Landing = () => {
               description="An embedded system is a computer system designed to perform tasks within a larger mechanical or electronic device."
               
             />
+            <Card
+              image="/assets/landing/robotics.png"
+              name="Robotics & Automation"
+              link="/robotics-automation"
+              description="Robotics & Automation is the integration of programmable machines with automated systems to perform tasks."
+              
+            />
           </div>
         </div>
 

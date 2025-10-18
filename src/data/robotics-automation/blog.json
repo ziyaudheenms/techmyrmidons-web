@@ -1,0 +1,19 @@
+{
+  "blog": [
+
+    {
+      "blog": "https://pal-robotics.com/blog/",
+      "author":"PAL"
+    },
+
+    {
+      "blog": "https://www.universal-robots.com/blog/",
+      "author":"Universal Robots"
+    },
+
+    {
+      "blog": "https://standardbots.com/blog/robotics-blog",
+      "author":"Standard Bots"
+    }
+  ]
+}

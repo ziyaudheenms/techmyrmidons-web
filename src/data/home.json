@@ -111,6 +111,12 @@
       "logo": "embedded-system.png",
       "folderName": "embedded-system"
 
+    },
+    {
+      "technology": "Robotics & Automation",
+      "logo": "robotics.png",
+      "folderName": "robotics-automation"
+
     }
   ]
 }
