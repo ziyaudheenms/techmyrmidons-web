@@ -1,0 +1,24 @@
+{
+  "blog": [
+
+    {
+      "blog": "https://www.space.com/",
+      "author":"Space.com"
+    },
+
+    {
+      "blog": "https://www.universetoday.com/",
+      "author":"Universe Today"
+    },
+
+    {
+      "blog": "https://earthsky.org/space/",
+      "author":"EarthSky"
+    },
+
+    {
+      "blog": "https://www.nasa.gov/nasa-blogs/",
+      "author":"NASA Blogs"
+    }
+  ]
+}

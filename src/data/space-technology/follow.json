@@ -1,0 +1,36 @@
+{
+
+  "follow": [
+
+   {
+      "followLink":"https://x.com/robert_zubrin",
+      "photo":"Robert.jpg",
+      "name":"Dr. Robert Zubrin"
+    },
+
+    {
+      "followLink":"https://x.com/Peter_J_Beck",
+      "photo":"peter.jpg",
+      "name":"Peter Beck"
+    },
+
+    {
+      "followLink":"https://x.com/ProfSaraSeager",
+      "photo":"sara.jpg",
+      "name":"Dr. Sara Seager"
+    },
+
+    {
+      "followLink":"https://www.instagram.com/kelliegerardi/",
+      "photo":"kellie.webp",
+      "name":"Kellie Gerardi"
+    },
+
+    {
+      "followLink":"https://www.instagram.com/kevinjdebruin/",
+      "photo":"kevin.webp",
+      "name":"Kevin J. DeBruin"
+    }
+
+  ]
+}

@@ -168,6 +168,13 @@ const Landing = () => {
               description="Robotics & Automation is the integration of programmable machines with automated systems to perform tasks."
               
             />
+            <Card
+              image="/assets/landing/space-technology.png"
+              name="Space Technology"
+              link="/space-technology"
+              description="Space technology is the collection of advanced engineering systems, tools, and methods developed to explore Earth’s atmosphere—including satellites, spacecraft, launch vehicles."
+              
+            />
           </div>
         </div>
 

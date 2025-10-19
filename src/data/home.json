@@ -117,6 +117,12 @@
       "logo": "robotics.png",
       "folderName": "robotics-automation"
 
+    },
+    {
+      "technology": "Space Technology",
+      "logo": "space-technology.png",
+      "folderName": "space-technology"
+
     }
   ]
 }
