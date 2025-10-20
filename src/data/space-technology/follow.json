@@ -30,7 +30,27 @@
       "followLink":"https://www.instagram.com/kevinjdebruin/",
       "photo":"kevin.webp",
       "name":"Kevin J. DeBruin"
+    },
+
+    {
+      "followLink":"https://www.linkedin.com/in/nobu-okada-4a525517/?originalSubdomain=jp",
+      "photo":"Nobu.webp",
+      "name":"Nobu Okada"
+    },
+
+     {
+      "followLink":"https://x.com/LeoLabs_Space",
+      "photo":"Dan.jpeg",
+      "name":"Dan Ceperley"
+    },
+
+     {
+      "followLink":"https://x.com/Cmdr_Hadfield?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "photo":"Chris.webp",
+      "name":"Chris Hadfield"
     }
+    
+    
 
   ]
 }

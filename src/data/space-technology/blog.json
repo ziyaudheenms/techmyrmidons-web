@@ -19,6 +19,16 @@
     {
       "blog": "https://www.nasa.gov/nasa-blogs/",
       "author":"NASA Blogs"
+    },
+
+    {
+      "blog": "https://www.sierraspace.com/blog/",
+      "author":"Sierra Space"
+    },
+
+    {
+      "blog": "https://nss.org/category/blog/",
+      "author":"NSS"
     }
   ]
 }
